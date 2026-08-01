@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ctm",
+    "name": "CTM",
+    "mode": "COACH",
+    "logo": "/operators/dataset-ctm.png",
+    "officialUrl": "https://www.ctm.ma",
+    "lastUpdated": "2026-07-27T12:51:58.077458"
+  },
+  {
+    "id": "ghazala",
+    "name": "Ghazala",
+    "mode": "COACH",
+    "logo": "/operators/dataset-ghazala.png",
+    "officialUrl": "https://www.ghazala.ma",
+    "lastUpdated": "2026-07-27T12:51:58.117946"
+  },
+  {
+    "id": "jana_viajes",
+    "name": "Jana Viajes",
+    "mode": "COACH",
+    "logo": "/operators/dataset-jana_viajes.png",
+    "officialUrl": "https://www.janaviajes.ma",
+    "lastUpdated": "2026-07-27T12:51:58.165049"
+  },
+  {
+    "id": "pullman_du_sud",
+    "name": "Pullman du Sud",
+    "mode": "COACH",
+    "logo": "/operators/dataset-pullman_du_sud.png",
+    "officialUrl": "https://www.pullmandusud.ma",
+    "lastUpdated": "2026-07-27T12:51:58.188182"
+  },
+  {
+    "id": "satas",
+    "name": "SATAS",
+    "mode": "COACH",
+    "logo": "/operators/dataset-satas.png",
+    "officialUrl": "https://www.satas.ma",
+    "lastUpdated": "2026-07-27T12:51:58.140478"
+  },
+  {
+    "id": "supratours",
+    "name": "Supratours",
+    "mode": "COACH",
+    "logo": "/operators/dataset-supratours.png",
+    "officialUrl": "https://www.supratours.ma",
+    "lastUpdated": "2026-07-27T12:51:58.095798"
+  },
+  {
+    "id": "oncf",
+    "name": "ONCF",
+    "mode": "TRAIN",
+    "logo": "/operators/dataset-oncf.png",
+    "officialUrl": "https://www.oncf.ma",
+    "lastUpdated": "2026-07-27T12:51:58.056072"
+  },
+  {
+    "id": "air_arabia_maroc",
+    "name": "Air Arabia Maroc",
+    "mode": "FLIGHT",
+    "logo": "/operators/dataset-air_arabia_maroc.png",
+    "officialUrl": "https://www.airarabia.com",
+    "lastUpdated": "2026-07-27T12:51:57.762948"
+  },
+  {
+    "id": "royal_air_maroc",
+    "name": "Royal Air Maroc",
+    "mode": "FLIGHT",
+    "logo": "/operators/dataset-royal_air_maroc.png",
+    "officialUrl": "https://www.royalairmaroc.com",
+    "lastUpdated": "2026-07-27T12:51:57.749208"
+  },
+  {
+    "id": "ryanair",
+    "name": "Ryanair",
+    "mode": "FLIGHT",
+    "logo": "/operators/dataset-ryanair.png",
+    "officialUrl": "https://www.ryanair.com",
+    "lastUpdated": "2026-07-27T12:51:57.776314"
+  }
+]

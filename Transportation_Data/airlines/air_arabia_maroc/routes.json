@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "air_arabia_maroc_ahm_eun",
+    "company": "air_arabia_maroc",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "eun",
+    "distanceKm": 1261.1,
+    "estimatedDuration": 131,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_ouz",
+    "company": "air_arabia_maroc",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "ouz",
+    "distanceKm": 551.6,
+    "estimatedDuration": 85,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_rba",
+    "company": "air_arabia_maroc",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "rba",
+    "distanceKm": 294.6,
+    "estimatedDuration": 38,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_ndr",
+    "company": "air_arabia_maroc",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "ndr",
+    "distanceKm": 82.0,
+    "estimatedDuration": 45,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_dak",
+    "company": "air_arabia_maroc",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "dak",
+    "distanceKm": 1728.0,
+    "estimatedDuration": 160,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

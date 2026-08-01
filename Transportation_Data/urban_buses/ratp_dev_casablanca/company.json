@@ -1,0 +1,15 @@
+{
+  "id": "ratp_dev_casablanca",
+  "name": "RATP Dev Casablanca",
+  "shortName": "Casa Bus",
+  "country": "Morocco",
+  "website": "https://www.casabus.ma",
+  "headquarters": "Casablanca",
+  "founded": 2010,
+  "transportType": "urban_bus",
+  "description": "Operator of the urban bus network in Casablanca",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#009e60",
+  "secondaryColor": "#ffffff"
+}

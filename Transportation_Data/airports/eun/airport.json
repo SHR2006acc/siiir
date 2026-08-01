@@ -1,0 +1,16 @@
+{
+  "airportId": "eun",
+  "name": "La\u00e2youne Hassan I",
+  "city": "laayoune",
+  "region": "La\u00e2youne-Sakia El Hamra",
+  "IATA": "EUN",
+  "ICAO": "GMML",
+  "latitude": 27.1517,
+  "longitude": -13.2192,
+  "elevation": 63,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-eun",
+  "description": "La\u00e2youne Hassan I serves La\u00e2youne and surrounding areas."
+}

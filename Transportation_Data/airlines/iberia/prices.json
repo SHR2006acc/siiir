@@ -1,0 +1,65 @@
+[
+  {
+    "routeId": "iberia_eun_tng",
+    "price": 2166,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "iberia_eun_tng",
+    "price": 3249,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "iberia_eun_ahm",
+    "price": 1230,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "iberia_eun_ahm",
+    "price": 1845,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "iberia_eun_fes",
+    "price": 2139,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "iberia_eun_dak",
+    "price": 2182,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "iberia_eun_dak",
+    "price": 3273,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "iberia_eun_cmn",
+    "price": 1497,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "iberia_eun_cmn",
+    "price": 2245,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

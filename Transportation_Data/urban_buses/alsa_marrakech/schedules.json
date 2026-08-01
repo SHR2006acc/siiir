@@ -1,0 +1,482 @@
+[
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "17:45",
+    "arrivalTime": "18:17",
+    "duration": 32,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "15:00",
+    "arrivalTime": "15:32",
+    "duration": 32,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "14:15",
+    "arrivalTime": "14:47",
+    "duration": 32,
+    "availableSeats": 47,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "10:45",
+    "arrivalTime": "11:17",
+    "duration": 32,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "18:15",
+    "arrivalTime": "18:47",
+    "duration": 32,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "16:15",
+    "arrivalTime": "16:47",
+    "duration": 32,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "11:45",
+    "arrivalTime": "12:17",
+    "duration": 32,
+    "availableSeats": 36,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "08:45",
+    "arrivalTime": "09:17",
+    "duration": 32,
+    "availableSeats": 23,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "07:30",
+    "arrivalTime": "08:02",
+    "duration": 32,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "13:00",
+    "arrivalTime": "13:32",
+    "duration": 32,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "21:15",
+    "arrivalTime": "21:47",
+    "duration": 32,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "departureTime": "06:30",
+    "arrivalTime": "07:02",
+    "duration": 32,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "09:45",
+    "arrivalTime": "10:11",
+    "duration": 26,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "07:45",
+    "arrivalTime": "08:11",
+    "duration": 26,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "13:15",
+    "arrivalTime": "13:41",
+    "duration": 26,
+    "availableSeats": 32,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "19:30",
+    "arrivalTime": "19:56",
+    "duration": 26,
+    "availableSeats": 21,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "16:00",
+    "arrivalTime": "16:26",
+    "duration": 26,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "18:45",
+    "arrivalTime": "19:11",
+    "duration": 26,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "06:15",
+    "arrivalTime": "06:41",
+    "duration": 26,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "17:45",
+    "arrivalTime": "18:11",
+    "duration": 26,
+    "availableSeats": 28,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "20:30",
+    "arrivalTime": "20:56",
+    "duration": 26,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "08:45",
+    "arrivalTime": "09:11",
+    "duration": 26,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "11:45",
+    "arrivalTime": "12:11",
+    "duration": 26,
+    "availableSeats": 30,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "departureTime": "22:45",
+    "arrivalTime": "23:11",
+    "duration": 26,
+    "availableSeats": 29,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "16:00",
+    "arrivalTime": "16:34",
+    "duration": 34,
+    "availableSeats": 36,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "22:45",
+    "arrivalTime": "23:19",
+    "duration": 34,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "07:30",
+    "arrivalTime": "08:04",
+    "duration": 34,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "12:30",
+    "arrivalTime": "13:04",
+    "duration": 34,
+    "availableSeats": 30,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "17:00",
+    "arrivalTime": "17:34",
+    "duration": 34,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "11:15",
+    "arrivalTime": "11:49",
+    "duration": 34,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "14:45",
+    "arrivalTime": "15:19",
+    "duration": 34,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "21:00",
+    "arrivalTime": "21:34",
+    "duration": 34,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "09:15",
+    "arrivalTime": "09:49",
+    "duration": 34,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "08:45",
+    "arrivalTime": "09:19",
+    "duration": 34,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "13:30",
+    "arrivalTime": "14:04",
+    "duration": 34,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "departureTime": "20:15",
+    "arrivalTime": "20:49",
+    "duration": 34,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "11:15",
+    "arrivalTime": "11:39",
+    "duration": 24,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "13:45",
+    "arrivalTime": "14:09",
+    "duration": 24,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "16:45",
+    "arrivalTime": "17:09",
+    "duration": 24,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "14:30",
+    "arrivalTime": "14:54",
+    "duration": 24,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "07:15",
+    "arrivalTime": "07:39",
+    "duration": 24,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "19:30",
+    "arrivalTime": "19:54",
+    "duration": 24,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "08:45",
+    "arrivalTime": "09:09",
+    "duration": 24,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "10:15",
+    "arrivalTime": "10:39",
+    "duration": 24,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "06:15",
+    "arrivalTime": "06:39",
+    "duration": 24,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "09:45",
+    "arrivalTime": "10:09",
+    "duration": 24,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "18:30",
+    "arrivalTime": "18:54",
+    "duration": 24,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "departureTime": "22:15",
+    "arrivalTime": "22:39",
+    "duration": 24,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "16:30",
+    "arrivalTime": "16:40",
+    "duration": 10,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "21:15",
+    "arrivalTime": "21:25",
+    "duration": 10,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "14:45",
+    "arrivalTime": "14:55",
+    "duration": 10,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "18:45",
+    "arrivalTime": "18:55",
+    "duration": 10,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "19:00",
+    "arrivalTime": "19:10",
+    "duration": 10,
+    "availableSeats": 38,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "15:15",
+    "arrivalTime": "15:25",
+    "duration": 10,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "09:15",
+    "arrivalTime": "09:25",
+    "duration": 10,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "12:30",
+    "arrivalTime": "12:40",
+    "duration": 10,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "10:45",
+    "arrivalTime": "10:55",
+    "duration": 10,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "20:30",
+    "arrivalTime": "20:40",
+    "duration": 10,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "22:15",
+    "arrivalTime": "22:25",
+    "duration": 10,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "departureTime": "06:00",
+    "arrivalTime": "06:10",
+    "duration": 10,
+    "availableSeats": 32,
+    "status": "cancelled"
+  }
+]

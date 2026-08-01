@@ -1,0 +1,15 @@
+{
+  "id": "alsa_tetouan",
+  "name": "ALSA T\u00e9touan",
+  "shortName": "ALSA TE",
+  "country": "Morocco",
+  "website": "https://www.alsa.ma",
+  "headquarters": "T\u00e9touan",
+  "founded": 2016,
+  "transportType": "urban_bus",
+  "description": "Urban bus operator in T\u00e9touan",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#8b1a4a",
+  "secondaryColor": "#f2c94c"
+}

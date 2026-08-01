@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "jana_viajes_casablanca_safi",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "safi",
+    "distanceKm": 208.8,
+    "estimatedDuration": 287,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_casablanca_laayoune",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "laayoune",
+    "distanceKm": 893.8,
+    "estimatedDuration": 1084,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_casablanca_ouarzazate",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "ouarzazate",
+    "distanceKm": 302.0,
+    "estimatedDuration": 386,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_kenitra_el_jadida",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "el_jadida",
+    "distanceKm": 210.5,
+    "estimatedDuration": 270,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_kenitra_errachidia",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "errachidia",
+    "distanceKm": 328.0,
+    "estimatedDuration": 421,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_kenitra_berkane",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "berkane",
+    "distanceKm": 397.0,
+    "estimatedDuration": 488,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_essaouira_marrakech",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "essaouira",
+    "destination": "marrakech",
+    "distanceKm": 169.8,
+    "estimatedDuration": 215,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_essaouira_ifrane",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "essaouira",
+    "destination": "ifrane",
+    "distanceKm": 490.5,
+    "estimatedDuration": 612,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_essaouira_tangier",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "essaouira",
+    "destination": "tangier",
+    "distanceKm": 596.3,
+    "estimatedDuration": 725,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_tangier_taza",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "tangier",
+    "destination": "taza",
+    "distanceKm": 238.4,
+    "estimatedDuration": 320,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_tangier_mohammedia",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "tangier",
+    "destination": "mohammedia",
+    "distanceKm": 270.5,
+    "estimatedDuration": 363,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_tangier_al_hoceima",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "tangier",
+    "destination": "al_hoceima",
+    "distanceKm": 180.8,
+    "estimatedDuration": 239,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_rabat_taza",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "rabat",
+    "destination": "taza",
+    "distanceKm": 260.9,
+    "estimatedDuration": 341,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_rabat_beni_mellal",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "rabat",
+    "destination": "beni_mellal",
+    "distanceKm": 192.7,
+    "estimatedDuration": 268,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "jana_viajes_rabat_mohammedia",
+    "company": "jana_viajes",
+    "transportType": "bus",
+    "origin": "rabat",
+    "destination": "mohammedia",
+    "distanceKm": 62.3,
+    "estimatedDuration": 106,
+    "numberOfStops": 2,
+    "direct": true
+  }
+]

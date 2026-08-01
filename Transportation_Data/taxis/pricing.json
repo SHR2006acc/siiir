@@ -1,0 +1,24 @@
+{
+  "currency": "MAD",
+  "petitTaxi": {
+    "description": "Urban taxi within city limits. Uses taximeter. Regulated local fares.",
+    "baseFare": 7.0,
+    "distanceRate": 2.5,
+    "minimumFare": 7.0,
+    "nightSurcharge": {
+      "enabled": true,
+      "rate": 1.5,
+      "startTime": "20:00",
+      "endTime": "06:00"
+    },
+    "airportFlatFare": "Fixed fare in some cities, e.g., 50\u201380 MAD from airport to city center",
+    "notes": "Fares vary by city. Minimum fare can be higher during nighttime or on weekends."
+  },
+  "grandTaxi": {
+    "description": "Shared intercity/suburban taxi. No taximeter. Fixed route and per\u2011seat pricing.",
+    "perSeatRate": "5\u201310 MAD for short shared routes, higher for longer distances",
+    "entireVehicleNegotiated": "Can be hired privately for a negotiated fare",
+    "airportFixedFare": "Official fixed prices for airport routes, typically 50\u2013150 MAD per person depending on destination",
+    "notes": "Usually departs when full (6 passengers). Prices are fixed per route and per person."
+  }
+}

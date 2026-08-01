@@ -1,0 +1,290 @@
+[
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "20:45",
+    "arrivalTime": "21:12",
+    "duration": 27,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "19:30",
+    "arrivalTime": "19:57",
+    "duration": 27,
+    "availableSeats": 34,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "14:00",
+    "arrivalTime": "14:27",
+    "duration": 27,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "15:15",
+    "arrivalTime": "15:42",
+    "duration": 27,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "08:15",
+    "arrivalTime": "08:42",
+    "duration": 27,
+    "availableSeats": 44,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "13:15",
+    "arrivalTime": "13:42",
+    "duration": 27,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "21:15",
+    "arrivalTime": "21:42",
+    "duration": 27,
+    "availableSeats": 38,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "09:30",
+    "arrivalTime": "09:57",
+    "duration": 27,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "17:30",
+    "arrivalTime": "17:57",
+    "duration": 27,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "10:45",
+    "arrivalTime": "11:12",
+    "duration": 27,
+    "availableSeats": 28,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "16:45",
+    "arrivalTime": "17:12",
+    "duration": 27,
+    "availableSeats": 30,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "departureTime": "12:45",
+    "arrivalTime": "13:12",
+    "duration": 27,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "18:45",
+    "arrivalTime": "19:18",
+    "duration": 33,
+    "availableSeats": 46,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "06:30",
+    "arrivalTime": "07:03",
+    "duration": 33,
+    "availableSeats": 29,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "12:15",
+    "arrivalTime": "12:48",
+    "duration": 33,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "21:00",
+    "arrivalTime": "21:33",
+    "duration": 33,
+    "availableSeats": 47,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "08:30",
+    "arrivalTime": "09:03",
+    "duration": 33,
+    "availableSeats": 28,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "17:00",
+    "arrivalTime": "17:33",
+    "duration": 33,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "10:15",
+    "arrivalTime": "10:48",
+    "duration": 33,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "07:30",
+    "arrivalTime": "08:03",
+    "duration": 33,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "13:15",
+    "arrivalTime": "13:48",
+    "duration": 33,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "19:30",
+    "arrivalTime": "20:03",
+    "duration": 33,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "22:00",
+    "arrivalTime": "22:33",
+    "duration": 33,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "departureTime": "11:45",
+    "arrivalTime": "12:18",
+    "duration": 33,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "17:45",
+    "arrivalTime": "18:13",
+    "duration": 28,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "08:30",
+    "arrivalTime": "08:58",
+    "duration": 28,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "12:30",
+    "arrivalTime": "12:58",
+    "duration": 28,
+    "availableSeats": 30,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "18:30",
+    "arrivalTime": "18:58",
+    "duration": 28,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "22:45",
+    "arrivalTime": "23:13",
+    "duration": 28,
+    "availableSeats": 46,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "09:00",
+    "arrivalTime": "09:28",
+    "duration": 28,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "13:45",
+    "arrivalTime": "14:13",
+    "duration": 28,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "16:30",
+    "arrivalTime": "16:58",
+    "duration": 28,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "10:00",
+    "arrivalTime": "10:28",
+    "duration": 28,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "20:00",
+    "arrivalTime": "20:28",
+    "duration": 28,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "19:30",
+    "arrivalTime": "19:58",
+    "duration": 28,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "departureTime": "06:45",
+    "arrivalTime": "07:13",
+    "duration": 28,
+    "availableSeats": 42,
+    "status": "scheduled"
+  }
+]

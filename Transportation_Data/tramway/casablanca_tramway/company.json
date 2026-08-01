@@ -1,0 +1,15 @@
+{
+  "id": "casablanca_tramway",
+  "name": "Casablanca Tramway",
+  "shortName": "CASABLANCATRAMWAY",
+  "country": "Morocco",
+  "website": "",
+  "headquarters": "Casablanca",
+  "founded": 2012,
+  "transportType": "tram",
+  "description": "Casablanca Tramway serves Casablanca",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#0066cc",
+  "secondaryColor": "#ffffff"
+}

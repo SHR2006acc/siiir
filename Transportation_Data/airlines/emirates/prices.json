@@ -1,0 +1,65 @@
+[
+  {
+    "routeId": "emirates_rak_tng",
+    "price": 915,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "emirates_rak_tng",
+    "price": 1372,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "emirates_rak_dak",
+    "price": 2080,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "emirates_rak_dak",
+    "price": 3120,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "emirates_rak_oud",
+    "price": 1917,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "emirates_rak_oud",
+    "price": 2875,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "emirates_rak_fes",
+    "price": 1030,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "emirates_rak_erh",
+    "price": 1777,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "emirates_rak_erh",
+    "price": 2665,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

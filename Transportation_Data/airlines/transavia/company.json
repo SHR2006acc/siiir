@@ -1,0 +1,15 @@
+{
+  "id": "transavia",
+  "name": "Transavia",
+  "shortName": "TO",
+  "country": "France",
+  "website": "https://www.transavia.com",
+  "headquarters": "Paris",
+  "founded": 1965,
+  "transportType": "air",
+  "description": "French low-cost airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#00a3e0",
+  "secondaryColor": "#ffffff"
+}

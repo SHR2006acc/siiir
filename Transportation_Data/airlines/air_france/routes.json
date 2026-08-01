@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "air_france_fes_cmn",
+    "company": "air_france",
+    "transportType": "flight",
+    "origin": "fes",
+    "destination": "cmn",
+    "distanceKm": 249.6,
+    "estimatedDuration": 57,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_france_fes_eun",
+    "company": "air_france",
+    "transportType": "flight",
+    "origin": "fes",
+    "destination": "eun",
+    "distanceKm": 1090.3,
+    "estimatedDuration": 121,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_france_fes_ndr",
+    "company": "air_france",
+    "transportType": "flight",
+    "origin": "fes",
+    "destination": "ndr",
+    "distanceKm": 218.7,
+    "estimatedDuration": 49,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_france_fes_dak",
+    "company": "air_france",
+    "transportType": "flight",
+    "origin": "fes",
+    "destination": "dak",
+    "distanceKm": 1556.1,
+    "estimatedDuration": 151,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "air_france_fes_rba",
+    "company": "air_france",
+    "transportType": "flight",
+    "origin": "fes",
+    "destination": "rba",
+    "distanceKm": 164.1,
+    "estimatedDuration": 45,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

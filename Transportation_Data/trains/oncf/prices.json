@@ -1,0 +1,149 @@
+[
+  {
+    "routeId": "oncf_casa_voyageurs_rabat_agdal",
+    "price": 143,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_voyageurs_marrakech",
+    "price": 313,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_voyageurs_meknes",
+    "price": 292,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_port_rabat_agdal",
+    "price": 146,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_port_kenitra",
+    "price": 168,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_port_tangier_ville",
+    "price": 401,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_casa_port_oujda",
+    "price": 711,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_rabat_ville_kenitra",
+    "price": 83,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_rabat_ville_marrakech",
+    "price": 383,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_rabat_agdal_kenitra",
+    "price": 91,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_rabat_agdal_oujda",
+    "price": 576,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_kenitra_marrakech",
+    "price": 413,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_marrakech_fes",
+    "price": 540,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_marrakech_oujda",
+    "price": 810,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_fes_oujda",
+    "price": 390,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_tangier_ville_kenitra",
+    "price": 288,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_tangier_ville_kenitra",
+    "price": 518,
+    "currency": "MAD",
+    "cabinClass": "Premium",
+    "notes": "Premium fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_kenitra_rabat_ville",
+    "price": 94,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_kenitra_rabat_ville",
+    "price": 169,
+    "currency": "MAD",
+    "cabinClass": "Premium",
+    "notes": "Premium fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_rabat_ville_casa_voyageurs",
+    "price": 132,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "oncf_al_boraq_rabat_ville_casa_voyageurs",
+    "price": 237,
+    "currency": "MAD",
+    "cabinClass": "Premium",
+    "notes": "Premium fare"
+  }
+]

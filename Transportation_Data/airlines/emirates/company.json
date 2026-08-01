@@ -1,0 +1,15 @@
+{
+  "id": "emirates",
+  "name": "Emirates",
+  "shortName": "EK",
+  "country": "UAE",
+  "website": "https://www.emirates.com",
+  "headquarters": "Dubai",
+  "founded": 1985,
+  "transportType": "air",
+  "description": "Emirati airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#d71921",
+  "secondaryColor": "#ffffff"
+}

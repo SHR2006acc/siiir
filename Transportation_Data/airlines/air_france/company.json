@@ -1,0 +1,15 @@
+{
+  "id": "air_france",
+  "name": "Air France",
+  "shortName": "AF",
+  "country": "France",
+  "website": "https://www.airfrance.com",
+  "headquarters": "Paris",
+  "founded": 1933,
+  "transportType": "air",
+  "description": "French flag carrier",
+  "alliance": "SkyTeam",
+  "status": "active",
+  "primaryColor": "#002157",
+  "secondaryColor": "#e8000d"
+}

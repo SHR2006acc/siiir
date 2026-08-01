@@ -1,0 +1,226 @@
+[
+  {
+    "stationId": "alsa_rabat_sale_line1_stop1",
+    "name": "Stop 1-1",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.02292716159751,
+    "longitude": -6.881437825028655
+  },
+  {
+    "stationId": "alsa_rabat_sale_line1_stop2",
+    "name": "Stop 1-2",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.0464704393104,
+    "longitude": -6.873595532310636
+  },
+  {
+    "stationId": "alsa_rabat_sale_line1_stop3",
+    "name": "Stop 1-3",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 33.973963247457974,
+    "longitude": -6.877570155175465
+  },
+  {
+    "stationId": "alsa_rabat_sale_line1_stop4",
+    "name": "Stop 1-4",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.043155016094985,
+    "longitude": -6.891001154863538
+  },
+  {
+    "stationId": "alsa_rabat_sale_line1_stop5",
+    "name": "Stop 1-5",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 33.98783255533269,
+    "longitude": -6.842004754605465
+  },
+  {
+    "stationId": "alsa_rabat_sale_line2_stop1",
+    "name": "Stop 2-1",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.050353215791105,
+    "longitude": -6.833250441142752
+  },
+  {
+    "stationId": "alsa_rabat_sale_line2_stop2",
+    "name": "Stop 2-2",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.054732462716096,
+    "longitude": -6.799892948291392
+  },
+  {
+    "stationId": "alsa_rabat_sale_line2_stop3",
+    "name": "Stop 2-3",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.033171542751326,
+    "longitude": -6.825181012581863
+  },
+  {
+    "stationId": "alsa_rabat_sale_line2_stop4",
+    "name": "Stop 2-4",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.02104102803668,
+    "longitude": -6.861498549083848
+  },
+  {
+    "stationId": "alsa_rabat_sale_line2_stop5",
+    "name": "Stop 2-5",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.028046641572324,
+    "longitude": -6.845027570812271
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop1",
+    "name": "Stop 3-1",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.03937687854216,
+    "longitude": -6.869862670403925
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop2",
+    "name": "Stop 3-2",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.03317609428281,
+    "longitude": -6.805664725876127
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop3",
+    "name": "Stop 3-3",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 33.977472198235915,
+    "longitude": -6.883427806850588
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop4",
+    "name": "Stop 3-4",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 33.972875947239515,
+    "longitude": -6.795803514289127
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop5",
+    "name": "Stop 3-5",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.04871725784579,
+    "longitude": -6.827085815810163
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop6",
+    "name": "Stop 3-6",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.04399462296782,
+    "longitude": -6.862159032737816
+  },
+  {
+    "stationId": "alsa_rabat_sale_line3_stop7",
+    "name": "Stop 3-7",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.03763540776383,
+    "longitude": -6.869019779248759
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop1",
+    "name": "Stop 4-1",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.027225987226956,
+    "longitude": -6.82044375781535
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop2",
+    "name": "Stop 4-2",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.04225901358547,
+    "longitude": -6.855424128342219
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop3",
+    "name": "Stop 4-3",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.00055671213526,
+    "longitude": -6.857649706147859
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop4",
+    "name": "Stop 4-4",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 33.97620353223037,
+    "longitude": -6.8356971924358
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop5",
+    "name": "Stop 4-5",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.060725987161874,
+    "longitude": -6.794657174689194
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop6",
+    "name": "Stop 4-6",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.01328077856865,
+    "longitude": -6.807720760918896
+  },
+  {
+    "stationId": "alsa_rabat_sale_line4_stop7",
+    "name": "Stop 4-7",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.02596206088506,
+    "longitude": -6.822123912509664
+  },
+  {
+    "stationId": "alsa_rabat_sale_line5_stop1",
+    "name": "Stop 5-1",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.03755961895181,
+    "longitude": -6.887262258563971
+  },
+  {
+    "stationId": "alsa_rabat_sale_line5_stop2",
+    "name": "Stop 5-2",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.027682726509866,
+    "longitude": -6.8313451794997935
+  },
+  {
+    "stationId": "alsa_rabat_sale_line5_stop3",
+    "name": "Stop 5-3",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.00549367426533,
+    "longitude": -6.794278154627026
+  },
+  {
+    "stationId": "alsa_rabat_sale_line5_stop4",
+    "name": "Stop 5-4",
+    "city": "rabat",
+    "type": "urban_bus_stop",
+    "latitude": 34.063899142593094,
+    "longitude": -6.832142783066106
+  }
+]

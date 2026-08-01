@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "pullman_du_sud_khouribga_tangier",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "tangier",
+    "distanceKm": 335.0,
+    "estimatedDuration": 411,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_khouribga_dakhla",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "dakhla",
+    "distanceKm": 1351.8,
+    "estimatedDuration": 1633,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_khouribga_laayoune",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "laayoune",
+    "distanceKm": 878.8,
+    "estimatedDuration": 1089,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_tetouan",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "tetouan",
+    "distanceKm": 79.6,
+    "estimatedDuration": 115,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_ifrane",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "ifrane",
+    "distanceKm": 178.3,
+    "estimatedDuration": 233,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_errachidia",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "errachidia",
+    "distanceKm": 367.7,
+    "estimatedDuration": 475,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_rabat",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "rabat",
+    "distanceKm": 476.2,
+    "estimatedDuration": 606,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_tangier",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "tangier",
+    "distanceKm": 688.6,
+    "estimatedDuration": 850,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_safi",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "safi",
+    "distanceKm": 210.9,
+    "estimatedDuration": 283,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_safi_al_hoceima",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "al_hoceima",
+    "distanceKm": 589.2,
+    "estimatedDuration": 721,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_safi_oujda",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "oujda",
+    "distanceKm": 728.8,
+    "estimatedDuration": 902,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_safi_ifrane",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "ifrane",
+    "distanceKm": 408.0,
+    "estimatedDuration": 526,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_taza",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "taza",
+    "distanceKm": 468.6,
+    "estimatedDuration": 579,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_meknes",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "meknes",
+    "distanceKm": 339.5,
+    "estimatedDuration": 418,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_beni_mellal",
+    "company": "pullman_du_sud",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "beni_mellal",
+    "distanceKm": 172.8,
+    "estimatedDuration": 219,
+    "numberOfStops": 1,
+    "direct": true
+  }
+]

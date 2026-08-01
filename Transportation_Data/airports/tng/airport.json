@@ -1,0 +1,16 @@
+{
+  "airportId": "tng",
+  "name": "Tangier Ibn Battouta",
+  "city": "tangier",
+  "region": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+  "IATA": "TNG",
+  "ICAO": "GMTT",
+  "latitude": 35.7269,
+  "longitude": -5.9169,
+  "elevation": 19,
+  "runwayCount": 1,
+  "terminalCount": 2,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-tng",
+  "description": "Tangier Ibn Battouta serves Tangier and surrounding areas."
+}

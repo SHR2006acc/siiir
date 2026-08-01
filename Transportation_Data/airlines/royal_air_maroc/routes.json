@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "royal_air_maroc_cmn_ouz",
+    "company": "royal_air_maroc",
+    "transportType": "flight",
+    "origin": "cmn",
+    "destination": "ouz",
+    "distanceKm": 277.5,
+    "estimatedDuration": 39,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_eun",
+    "company": "royal_air_maroc",
+    "transportType": "flight",
+    "origin": "cmn",
+    "destination": "eun",
+    "distanceKm": 877.1,
+    "estimatedDuration": 98,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_ahm",
+    "company": "royal_air_maroc",
+    "transportType": "flight",
+    "origin": "cmn",
+    "destination": "ahm",
+    "distanceKm": 399.2,
+    "estimatedDuration": 61,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_oud",
+    "company": "royal_air_maroc",
+    "transportType": "flight",
+    "origin": "cmn",
+    "destination": "oud",
+    "distanceKm": 545.5,
+    "estimatedDuration": 78,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_dak",
+    "company": "royal_air_maroc",
+    "transportType": "flight",
+    "origin": "cmn",
+    "destination": "dak",
+    "distanceKm": 1346.2,
+    "estimatedDuration": 120,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

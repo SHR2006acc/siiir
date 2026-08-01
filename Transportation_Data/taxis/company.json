@@ -1,0 +1,15 @@
+{
+  "id": "taxis_morocco",
+  "name": "Moroccan Taxis",
+  "shortName": "Taxis",
+  "country": "Morocco",
+  "website": "",
+  "headquarters": "Rabat",
+  "founded": 1950,
+  "transportType": "taxi",
+  "description": "Moroccan taxi services include two main types: Petit Taxi (red) for urban travel within city limits, and Grand Taxi (white) for shared intercity, suburban, and airport transport.",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#ffcc00",
+  "secondaryColor": "#000000"
+}

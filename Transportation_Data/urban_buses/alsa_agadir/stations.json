@@ -1,0 +1,218 @@
+[
+  {
+    "stationId": "alsa_agadir_line1_stop1",
+    "name": "Stop 1-1",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.378228480855405,
+    "longitude": -9.595836896051969
+  },
+  {
+    "stationId": "alsa_agadir_line1_stop2",
+    "name": "Stop 1-2",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.450516334024503,
+    "longitude": -9.597177566219724
+  },
+  {
+    "stationId": "alsa_agadir_line1_stop3",
+    "name": "Stop 1-3",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.396794919569828,
+    "longitude": -9.595167347440425
+  },
+  {
+    "stationId": "alsa_agadir_line1_stop4",
+    "name": "Stop 1-4",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.408774605525032,
+    "longitude": -9.642670645645726
+  },
+  {
+    "stationId": "alsa_agadir_line2_stop1",
+    "name": "Stop 2-1",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.428654494114475,
+    "longitude": -9.548218009949878
+  },
+  {
+    "stationId": "alsa_agadir_line2_stop2",
+    "name": "Stop 2-2",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.45572808225185,
+    "longitude": -9.576347778116627
+  },
+  {
+    "stationId": "alsa_agadir_line2_stop3",
+    "name": "Stop 2-3",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.41494996482239,
+    "longitude": -9.596596405263194
+  },
+  {
+    "stationId": "alsa_agadir_line2_stop4",
+    "name": "Stop 2-4",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.38104520278788,
+    "longitude": -9.567367655440593
+  },
+  {
+    "stationId": "alsa_agadir_line3_stop1",
+    "name": "Stop 3-1",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.47152814619781,
+    "longitude": -9.590107171176584
+  },
+  {
+    "stationId": "alsa_agadir_line3_stop2",
+    "name": "Stop 3-2",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.44344538549741,
+    "longitude": -9.64576649739458
+  },
+  {
+    "stationId": "alsa_agadir_line3_stop3",
+    "name": "Stop 3-3",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.42891318346309,
+    "longitude": -9.63985793469664
+  },
+  {
+    "stationId": "alsa_agadir_line3_stop4",
+    "name": "Stop 3-4",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.454326167601227,
+    "longitude": -9.54966845099191
+  },
+  {
+    "stationId": "alsa_agadir_line3_stop5",
+    "name": "Stop 3-5",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.45497163519285,
+    "longitude": -9.58222233285216
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop1",
+    "name": "Stop 4-1",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.43506794550041,
+    "longitude": -9.561114617266478
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop2",
+    "name": "Stop 4-2",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.407550538067188,
+    "longitude": -9.614313293118599
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop3",
+    "name": "Stop 4-3",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.437969408085156,
+    "longitude": -9.590754657172448
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop4",
+    "name": "Stop 4-4",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.383906396683685,
+    "longitude": -9.548748278168608
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop5",
+    "name": "Stop 4-5",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.424716753460586,
+    "longitude": -9.626204191681273
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop6",
+    "name": "Stop 4-6",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.44913899027409,
+    "longitude": -9.563132864148445
+  },
+  {
+    "stationId": "alsa_agadir_line4_stop7",
+    "name": "Stop 4-7",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.387542368114435,
+    "longitude": -9.567210926061332
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop1",
+    "name": "Stop 5-1",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.407104434800726,
+    "longitude": -9.631358095114932
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop2",
+    "name": "Stop 5-2",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.451092718473937,
+    "longitude": -9.646922789325325
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop3",
+    "name": "Stop 5-3",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.40615332849236,
+    "longitude": -9.637648864830016
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop4",
+    "name": "Stop 5-4",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.4737770842631,
+    "longitude": -9.550415921944506
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop5",
+    "name": "Stop 5-5",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.427508374123338,
+    "longitude": -9.603558948632658
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop6",
+    "name": "Stop 5-6",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.41950076317755,
+    "longitude": -9.581507841925369
+  },
+  {
+    "stationId": "alsa_agadir_line5_stop7",
+    "name": "Stop 5-7",
+    "city": "agadir",
+    "type": "urban_bus_stop",
+    "latitude": 30.40235420605321,
+    "longitude": -9.57174786971177
+  }
+]

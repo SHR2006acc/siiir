@@ -1,0 +1,9 @@
+[EasyWay] Demarrage sur http://localhost:3000
+[EasyWay] Le site sera aussi accessible sur le reseau Wi-Fi via le port 3000.
+[EasyWay] Appuyez sur Ctrl+C pour arreter le serveur.
+   ▲ Next.js 15.5.21
+   - Local:        http://localhost:3000
+   - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 10.8s

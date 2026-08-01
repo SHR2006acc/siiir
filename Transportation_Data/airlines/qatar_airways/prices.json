@@ -1,0 +1,51 @@
+[
+  {
+    "routeId": "qatar_airways_rba_erh",
+    "price": 1514,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_dak",
+    "price": 1739,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_dak",
+    "price": 2608,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_oud",
+    "price": 1536,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_oud",
+    "price": 2304,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_eun",
+    "price": 1580,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "qatar_airways_rba_rak",
+    "price": 1539,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "airportId": "rak",
+  "name": "Marrakech Menara",
+  "city": "marrakech",
+  "region": "Marrakech-Safi",
+  "IATA": "RAK",
+  "ICAO": "GMMX",
+  "latitude": 31.6069,
+  "longitude": -8.0363,
+  "elevation": 471,
+  "runwayCount": 1,
+  "terminalCount": 2,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-rak",
+  "description": "Marrakech Menara serves Marrakech and surrounding areas."
+}

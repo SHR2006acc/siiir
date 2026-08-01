@@ -1,0 +1,16 @@
+{
+  "airportId": "aga",
+  "name": "Agadir Al Massira",
+  "city": "agadir",
+  "region": "Souss-Massa",
+  "IATA": "AGA",
+  "ICAO": "GMAD",
+  "latitude": 30.325,
+  "longitude": -9.4131,
+  "elevation": 69,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-aga",
+  "description": "Agadir Al Massira serves Agadir and surrounding areas."
+}

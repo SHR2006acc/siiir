@@ -1,0 +1,272 @@
+[
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line1_stop1",
+    "destination": "ville_bus_oujda_line1_stop5",
+    "distanceKm": 1.5,
+    "estimatedDuration": 9,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line1_stop1",
+        "name": "Stop 1-1",
+        "lat": 34.73122102985229,
+        "lng": -1.894075804314285
+      },
+      {
+        "id": "ville_bus_oujda_line1_stop2",
+        "name": "Stop 1-2",
+        "lat": 34.685928539351245,
+        "lng": -1.8976348039336577
+      },
+      {
+        "id": "ville_bus_oujda_line1_stop3",
+        "name": "Stop 1-3",
+        "lat": 34.66099601177679,
+        "lng": -1.8873445278199084
+      },
+      {
+        "id": "ville_bus_oujda_line1_stop4",
+        "name": "Stop 1-4",
+        "lat": 34.66186264526644,
+        "lng": -1.9399620844165044
+      },
+      {
+        "id": "ville_bus_oujda_line1_stop5",
+        "name": "Stop 1-5",
+        "lat": 34.73131044043166,
+        "lng": -1.910162941264911
+      }
+    ]
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line2_stop1",
+    "destination": "ville_bus_oujda_line2_stop4",
+    "distanceKm": 11.0,
+    "estimatedDuration": 40,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line2_stop1",
+        "name": "Stop 2-1",
+        "lat": 34.63167182858789,
+        "lng": -1.891876482148528
+      },
+      {
+        "id": "ville_bus_oujda_line2_stop2",
+        "name": "Stop 2-2",
+        "lat": 34.65234205766577,
+        "lng": -1.9451638644343014
+      },
+      {
+        "id": "ville_bus_oujda_line2_stop3",
+        "name": "Stop 2-3",
+        "lat": 34.68892349338821,
+        "lng": -1.875913036895161
+      },
+      {
+        "id": "ville_bus_oujda_line2_stop4",
+        "name": "Stop 2-4",
+        "lat": 34.729656116601774,
+        "lng": -1.8731319099883792
+      }
+    ]
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line3_stop1",
+    "destination": "ville_bus_oujda_line3_stop8",
+    "distanceKm": 3.6,
+    "estimatedDuration": 21,
+    "numberOfStops": 6,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line3_stop1",
+        "name": "Stop 3-1",
+        "lat": 34.65803042498776,
+        "lng": -1.9544063756476013
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop2",
+        "name": "Stop 3-2",
+        "lat": 34.71546039078692,
+        "lng": -1.9449158583311514
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop3",
+        "name": "Stop 3-3",
+        "lat": 34.70878632831298,
+        "lng": -1.9538664303458981
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop4",
+        "name": "Stop 3-4",
+        "lat": 34.71523716335407,
+        "lng": -1.9570117405573053
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop5",
+        "name": "Stop 3-5",
+        "lat": 34.66839423146631,
+        "lng": -1.9050664064838123
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop6",
+        "name": "Stop 3-6",
+        "lat": 34.707900857469085,
+        "lng": -1.8651177090583526
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop7",
+        "name": "Stop 3-7",
+        "lat": 34.708034259462394,
+        "lng": -1.8665481731945153
+      },
+      {
+        "id": "ville_bus_oujda_line3_stop8",
+        "name": "Stop 3-8",
+        "lat": 34.66106422832213,
+        "lng": -1.9149864620183414
+      }
+    ]
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line4_stop1",
+    "destination": "ville_bus_oujda_line4_stop5",
+    "distanceKm": 1.8,
+    "estimatedDuration": 11,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line4_stop1",
+        "name": "Stop 4-1",
+        "lat": 34.70867482627641,
+        "lng": -1.8988980631114472
+      },
+      {
+        "id": "ville_bus_oujda_line4_stop2",
+        "name": "Stop 4-2",
+        "lat": 34.66992522437296,
+        "lng": -1.8874101476261707
+      },
+      {
+        "id": "ville_bus_oujda_line4_stop3",
+        "name": "Stop 4-3",
+        "lat": 34.656841950018084,
+        "lng": -1.9584106965434323
+      },
+      {
+        "id": "ville_bus_oujda_line4_stop4",
+        "name": "Stop 4-4",
+        "lat": 34.711997935910105,
+        "lng": -1.8855838384432888
+      },
+      {
+        "id": "ville_bus_oujda_line4_stop5",
+        "name": "Stop 4-5",
+        "lat": 34.69375660985082,
+        "lng": -1.9074303035095754
+      }
+    ]
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line5_stop1",
+    "destination": "ville_bus_oujda_line5_stop5",
+    "distanceKm": 7.3,
+    "estimatedDuration": 26,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line5_stop1",
+        "name": "Stop 5-1",
+        "lat": 34.69442228857156,
+        "lng": -1.8701317003833495
+      },
+      {
+        "id": "ville_bus_oujda_line5_stop2",
+        "name": "Stop 5-2",
+        "lat": 34.67285635106421,
+        "lng": -1.9252869145477534
+      },
+      {
+        "id": "ville_bus_oujda_line5_stop3",
+        "name": "Stop 5-3",
+        "lat": 34.69263073240734,
+        "lng": -1.9434201064637202
+      },
+      {
+        "id": "ville_bus_oujda_line5_stop4",
+        "name": "Stop 5-4",
+        "lat": 34.67978840343365,
+        "lng": -1.9186867678643926
+      },
+      {
+        "id": "ville_bus_oujda_line5_stop5",
+        "name": "Stop 5-5",
+        "lat": 34.64944411079826,
+        "lng": -1.9280765900999663
+      }
+    ]
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "company": "ville_bus_oujda",
+    "transportType": "urban_bus",
+    "origin": "ville_bus_oujda_line6_stop1",
+    "destination": "ville_bus_oujda_line6_stop5",
+    "distanceKm": 7.0,
+    "estimatedDuration": 29,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ville_bus_oujda_line6_stop1",
+        "name": "Stop 6-1",
+        "lat": 34.666024267641326,
+        "lng": -1.9248451287319241
+      },
+      {
+        "id": "ville_bus_oujda_line6_stop2",
+        "name": "Stop 6-2",
+        "lat": 34.658386776865854,
+        "lng": -1.9363100566995868
+      },
+      {
+        "id": "ville_bus_oujda_line6_stop3",
+        "name": "Stop 6-3",
+        "lat": 34.68645166848077,
+        "lng": -1.9554194051081226
+      },
+      {
+        "id": "ville_bus_oujda_line6_stop4",
+        "name": "Stop 6-4",
+        "lat": 34.70821188516359,
+        "lng": -1.8707508172802598
+      },
+      {
+        "id": "ville_bus_oujda_line6_stop5",
+        "name": "Stop 6-5",
+        "lat": 34.72920188484513,
+        "lng": -1.9219520925876976
+      }
+    ]
+  }
+]

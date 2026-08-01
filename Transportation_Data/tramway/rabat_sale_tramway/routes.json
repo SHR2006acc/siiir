@@ -1,0 +1,24 @@
+[
+  {
+    "routeId": "rabat_sale_tramway_line_1",
+    "company": "rabat_sale_tramway",
+    "transportType": "tram",
+    "origin": "rab_tram_1",
+    "destination": "rab_tram_20",
+    "distanceKm": 10.0,
+    "estimatedDuration": 40,
+    "numberOfStops": 20,
+    "direct": true
+  },
+  {
+    "routeId": "rabat_sale_tramway_line_2",
+    "company": "rabat_sale_tramway",
+    "transportType": "tram",
+    "origin": "rab_tram_1",
+    "destination": "rab_tram_20",
+    "distanceKm": 10.0,
+    "estimatedDuration": 40,
+    "numberOfStops": 20,
+    "direct": true
+  }
+]

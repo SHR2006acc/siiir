@@ -1,0 +1,15 @@
+{
+  "id": "regie_autonome_fes",
+  "name": "R\u00e9gie Autonome de Transport de F\u00e8s",
+  "shortName": "RATF",
+  "country": "Morocco",
+  "website": "https://www.ratf.ma",
+  "headquarters": "F\u00e8s",
+  "founded": 1970,
+  "transportType": "urban_bus",
+  "description": "Public transport operator in F\u00e8s",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#2e6b8a",
+  "secondaryColor": "#ffffff"
+}

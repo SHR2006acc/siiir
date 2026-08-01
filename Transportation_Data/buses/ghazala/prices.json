@@ -1,0 +1,107 @@
+[
+  {
+    "routeId": "ghazala_mohammedia_tetouan",
+    "price": 725,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_mohammedia_beni_mellal",
+    "price": 468,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_mohammedia_tangier",
+    "price": 692,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_agadir_errachidia",
+    "price": 1342,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_agadir_nador",
+    "price": 2066,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_agadir_oujda",
+    "price": 2189,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_oujda_chefchaouen",
+    "price": 817,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_oujda_meknes",
+    "price": 908,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_oujda_laayoune",
+    "price": 3438,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_khouribga_chefchaouen",
+    "price": 778,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_khouribga_tangier",
+    "price": 879,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_khouribga_taza",
+    "price": 785,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_tetouan_chefchaouen",
+    "price": 160,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_tetouan_larache",
+    "price": 246,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ghazala_tetouan_dakhla",
+    "price": 4216,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  }
+]

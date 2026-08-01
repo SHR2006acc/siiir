@@ -1,0 +1,72 @@
+[
+  {
+    "id": "casa_voyageurs",
+    "name": "Casa Voyageurs",
+    "city": "casablanca",
+    "lat": 33.5915,
+    "lng": -7.59
+  },
+  {
+    "id": "casa_port",
+    "name": "Casa Port",
+    "city": "casablanca",
+    "lat": 33.6056,
+    "lng": -7.5894
+  },
+  {
+    "id": "rabat_ville",
+    "name": "Rabat Ville",
+    "city": "rabat",
+    "lat": 34.02,
+    "lng": -6.8348
+  },
+  {
+    "id": "rabat_agdal",
+    "name": "Rabat Agdal",
+    "city": "rabat",
+    "lat": 34.005,
+    "lng": -6.8586
+  },
+  {
+    "id": "kenitra",
+    "name": "Kenitra",
+    "city": "kenitra",
+    "lat": 34.261,
+    "lng": -6.5802
+  },
+  {
+    "id": "tangier_ville",
+    "name": "Tangier Ville",
+    "city": "tangier",
+    "lat": 35.777,
+    "lng": -5.8093
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "city": "marrakech",
+    "lat": 31.6293,
+    "lng": -7.978
+  },
+  {
+    "id": "fes",
+    "name": "F\u00e8s",
+    "city": "fes",
+    "lat": 34.0297,
+    "lng": -4.9993
+  },
+  {
+    "id": "meknes",
+    "name": "Mekn\u00e8s",
+    "city": "meknes",
+    "lat": 33.8984,
+    "lng": -5.5511
+  },
+  {
+    "id": "oujda",
+    "name": "Oujda",
+    "city": "oujda",
+    "lat": 34.6814,
+    "lng": -1.9086
+  }
+]

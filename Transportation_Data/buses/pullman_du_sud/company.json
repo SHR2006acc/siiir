@@ -1,0 +1,15 @@
+{
+  "id": "pullman_du_sud",
+  "name": "Pullman du Sud",
+  "shortName": "PS",
+  "country": "Morocco",
+  "website": "https://www.pullmandusud.ma",
+  "headquarters": "Agadir",
+  "founded": 1990,
+  "transportType": "bus",
+  "description": "Bus company in southern Morocco",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#2e6b8a",
+  "secondaryColor": "#ffffff"
+}

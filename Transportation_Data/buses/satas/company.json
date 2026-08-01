@@ -1,0 +1,15 @@
+{
+  "id": "satas",
+  "name": "SATAS",
+  "shortName": "SAS",
+  "country": "Morocco",
+  "website": "https://www.satas.ma",
+  "headquarters": "Casablanca",
+  "founded": 1970,
+  "transportType": "bus",
+  "description": "Bus operator",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#f7941e",
+  "secondaryColor": "#ffffff"
+}

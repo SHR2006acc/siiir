@@ -1,0 +1,15 @@
+{
+  "id": "rabat_sale_tramway",
+  "name": "Rabat-Sal\u00e9 Tramway",
+  "shortName": "RABATSALETRAMWAY",
+  "country": "Morocco",
+  "website": "",
+  "headquarters": "Rabat",
+  "founded": 2011,
+  "transportType": "tram",
+  "description": "Rabat-Sal\u00e9 Tramway serves Rabat",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#0066cc",
+  "secondaryColor": "#ffffff"
+}

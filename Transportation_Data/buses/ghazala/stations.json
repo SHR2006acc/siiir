@@ -1,0 +1,122 @@
+[
+  {
+    "stationId": "mohammedia_bus",
+    "name": "Gare Routi\u00e8re Mohamm\u00e9dia",
+    "city": "mohammedia",
+    "type": "bus",
+    "latitude": 33.695232168993826,
+    "longitude": -7.3919133069902205
+  },
+  {
+    "stationId": "tetouan_bus",
+    "name": "Gare Routi\u00e8re T\u00e9touan",
+    "city": "tetouan",
+    "type": "bus",
+    "latitude": 35.58173127974873,
+    "longitude": -5.377453040934736
+  },
+  {
+    "stationId": "beni_mellal_bus",
+    "name": "Gare Routi\u00e8re Beni Mellal",
+    "city": "beni_mellal",
+    "type": "bus",
+    "latitude": 32.340911181422804,
+    "longitude": -6.340719811051507
+  },
+  {
+    "stationId": "tangier_bus",
+    "name": "Gare Routi\u00e8re Tangier",
+    "city": "tangier",
+    "type": "bus",
+    "latitude": 35.76236055606604,
+    "longitude": -5.835385830206037
+  },
+  {
+    "stationId": "agadir_bus",
+    "name": "Gare Routi\u00e8re Agadir",
+    "city": "agadir",
+    "type": "bus",
+    "latitude": 30.426595704655977,
+    "longitude": -9.601216192696024
+  },
+  {
+    "stationId": "errachidia_bus",
+    "name": "Gare Routi\u00e8re Errachidia",
+    "city": "errachidia",
+    "type": "bus",
+    "latitude": 31.925639551772978,
+    "longitude": -4.4080746930713905
+  },
+  {
+    "stationId": "nador_bus",
+    "name": "Gare Routi\u00e8re Nador",
+    "city": "nador",
+    "type": "bus",
+    "latitude": 35.168795065101015,
+    "longitude": -2.926504978228003
+  },
+  {
+    "stationId": "oujda_bus",
+    "name": "Gare Routi\u00e8re Oujda",
+    "city": "oujda",
+    "type": "bus",
+    "latitude": 34.691373925379786,
+    "longitude": -1.9069721928535808
+  },
+  {
+    "stationId": "chefchaouen_bus",
+    "name": "Gare Routi\u00e8re Chefchaouen",
+    "city": "chefchaouen",
+    "type": "bus",
+    "latitude": 35.177764302761226,
+    "longitude": -5.261712739319639
+  },
+  {
+    "stationId": "meknes_bus",
+    "name": "Gare Routi\u00e8re Mekn\u00e8s",
+    "city": "meknes",
+    "type": "bus",
+    "latitude": 33.90381580630715,
+    "longitude": -5.555395105675116
+  },
+  {
+    "stationId": "laayoune_bus",
+    "name": "Gare Routi\u00e8re La\u00e2youne",
+    "city": "laayoune",
+    "type": "bus",
+    "latitude": 27.14929002875935,
+    "longitude": -13.207021931097868
+  },
+  {
+    "stationId": "khouribga_bus",
+    "name": "Gare Routi\u00e8re Khouribga",
+    "city": "khouribga",
+    "type": "bus",
+    "latitude": 32.8866326811348,
+    "longitude": -6.911747968709758
+  },
+  {
+    "stationId": "taza_bus",
+    "name": "Gare Routi\u00e8re Taza",
+    "city": "taza",
+    "type": "bus",
+    "latitude": 34.21763458861307,
+    "longitude": -4.006793001154386
+  },
+  {
+    "stationId": "larache_bus",
+    "name": "Gare Routi\u00e8re Larache",
+    "city": "larache",
+    "type": "bus",
+    "latitude": 35.20322018320618,
+    "longitude": -6.137934800322934
+  },
+  {
+    "stationId": "dakhla_bus",
+    "name": "Gare Routi\u00e8re Dakhla",
+    "city": "dakhla",
+    "type": "bus",
+    "latitude": 23.68507549632977,
+    "longitude": -15.948220338444129
+  }
+]

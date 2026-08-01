@@ -1,0 +1,15 @@
+{
+  "id": "turkish_airlines",
+  "name": "Turkish Airlines",
+  "shortName": "TK",
+  "country": "Turkey",
+  "website": "https://www.turkishairlines.com",
+  "headquarters": "Istanbul",
+  "founded": 1933,
+  "transportType": "air",
+  "description": "Turkish flag carrier",
+  "alliance": "Star Alliance",
+  "status": "active",
+  "primaryColor": "#e70000",
+  "secondaryColor": "#ffffff"
+}

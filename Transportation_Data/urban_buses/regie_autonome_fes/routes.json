@@ -1,0 +1,296 @@
+[
+  {
+    "routeId": "regie_autonome_fes_line_1",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line1_stop1",
+    "destination": "regie_autonome_fes_line1_stop8",
+    "distanceKm": 9.0,
+    "estimatedDuration": 39,
+    "numberOfStops": 6,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line1_stop1",
+        "name": "Stop 1-1",
+        "lat": 33.978910593880514,
+        "lng": -5.057440706820432
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop2",
+        "name": "Stop 1-2",
+        "lat": 33.976322729618616,
+        "lng": -5.001099052592112
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop3",
+        "name": "Stop 1-3",
+        "lat": 34.054626197814706,
+        "lng": -5.0370978112655855
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop4",
+        "name": "Stop 1-4",
+        "lat": 34.042125863124824,
+        "lng": -4.968539912266637
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop5",
+        "name": "Stop 1-5",
+        "lat": 34.02284957120598,
+        "lng": -4.992958640603848
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop6",
+        "name": "Stop 1-6",
+        "lat": 33.97794393557628,
+        "lng": -4.997923834494311
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop7",
+        "name": "Stop 1-7",
+        "lat": 34.04744636104157,
+        "lng": -5.0402087575530885
+      },
+      {
+        "id": "regie_autonome_fes_line1_stop8",
+        "name": "Stop 1-8",
+        "lat": 34.059771404546204,
+        "lng": -5.055403292023037
+      }
+    ]
+  },
+  {
+    "routeId": "regie_autonome_fes_line_2",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line2_stop1",
+    "destination": "regie_autonome_fes_line2_stop6",
+    "distanceKm": 1.5,
+    "estimatedDuration": 17,
+    "numberOfStops": 4,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line2_stop1",
+        "name": "Stop 2-1",
+        "lat": 34.006308867872065,
+        "lng": -5.019673516806067
+      },
+      {
+        "id": "regie_autonome_fes_line2_stop2",
+        "name": "Stop 2-2",
+        "lat": 33.971345621951706,
+        "lng": -5.049802603140084
+      },
+      {
+        "id": "regie_autonome_fes_line2_stop3",
+        "name": "Stop 2-3",
+        "lat": 34.00563060726875,
+        "lng": -5.035335845626695
+      },
+      {
+        "id": "regie_autonome_fes_line2_stop4",
+        "name": "Stop 2-4",
+        "lat": 34.05638434814304,
+        "lng": -4.966466111780539
+      },
+      {
+        "id": "regie_autonome_fes_line2_stop5",
+        "name": "Stop 2-5",
+        "lat": 33.9707641086044,
+        "lng": -4.98725165999651
+      },
+      {
+        "id": "regie_autonome_fes_line2_stop6",
+        "name": "Stop 2-6",
+        "lat": 34.00144163046461,
+        "lng": -5.004496606581816
+      }
+    ]
+  },
+  {
+    "routeId": "regie_autonome_fes_line_3",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line3_stop1",
+    "destination": "regie_autonome_fes_line3_stop6",
+    "distanceKm": 6.6,
+    "estimatedDuration": 33,
+    "numberOfStops": 4,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line3_stop1",
+        "name": "Stop 3-1",
+        "lat": 34.02480572794032,
+        "lng": -5.0513584972146655
+      },
+      {
+        "id": "regie_autonome_fes_line3_stop2",
+        "name": "Stop 3-2",
+        "lat": 33.972963664529196,
+        "lng": -4.985166636641012
+      },
+      {
+        "id": "regie_autonome_fes_line3_stop3",
+        "name": "Stop 3-3",
+        "lat": 34.02885762627957,
+        "lng": -5.0533728875515775
+      },
+      {
+        "id": "regie_autonome_fes_line3_stop4",
+        "name": "Stop 3-4",
+        "lat": 33.9745818203866,
+        "lng": -4.989625820744894
+      },
+      {
+        "id": "regie_autonome_fes_line3_stop5",
+        "name": "Stop 3-5",
+        "lat": 34.062094687938895,
+        "lng": -5.038837355640843
+      },
+      {
+        "id": "regie_autonome_fes_line3_stop6",
+        "name": "Stop 3-6",
+        "lat": 34.057578020430896,
+        "lng": -4.992288347498084
+      }
+    ]
+  },
+  {
+    "routeId": "regie_autonome_fes_line_4",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line4_stop1",
+    "destination": "regie_autonome_fes_line4_stop7",
+    "distanceKm": 9.0,
+    "estimatedDuration": 35,
+    "numberOfStops": 5,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line4_stop1",
+        "name": "Stop 4-1",
+        "lat": 33.9713538026841,
+        "lng": -5.026627833905907
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop2",
+        "name": "Stop 4-2",
+        "lat": 33.99571336471324,
+        "lng": -4.987976177265787
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop3",
+        "name": "Stop 4-3",
+        "lat": 34.01822133410876,
+        "lng": -5.046159091668027
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop4",
+        "name": "Stop 4-4",
+        "lat": 33.99878994136871,
+        "lng": -4.965150971784805
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop5",
+        "name": "Stop 4-5",
+        "lat": 34.05741518049591,
+        "lng": -4.970095404303263
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop6",
+        "name": "Stop 4-6",
+        "lat": 34.05088444766116,
+        "lng": -4.9599869257185185
+      },
+      {
+        "id": "regie_autonome_fes_line4_stop7",
+        "name": "Stop 4-7",
+        "lat": 34.05247788394101,
+        "lng": -5.0246942831775065
+      }
+    ]
+  },
+  {
+    "routeId": "regie_autonome_fes_line_5",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line5_stop1",
+    "destination": "regie_autonome_fes_line5_stop4",
+    "distanceKm": 0.6,
+    "estimatedDuration": 13,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line5_stop1",
+        "name": "Stop 5-1",
+        "lat": 33.97647887771144,
+        "lng": -4.993352355765235
+      },
+      {
+        "id": "regie_autonome_fes_line5_stop2",
+        "name": "Stop 5-2",
+        "lat": 33.98038934860532,
+        "lng": -4.963075039814937
+      },
+      {
+        "id": "regie_autonome_fes_line5_stop3",
+        "name": "Stop 5-3",
+        "lat": 34.0407965260162,
+        "lng": -4.960138739532114
+      },
+      {
+        "id": "regie_autonome_fes_line5_stop4",
+        "name": "Stop 5-4",
+        "lat": 33.98092297211379,
+        "lng": -4.996296827561227
+      }
+    ]
+  },
+  {
+    "routeId": "regie_autonome_fes_line_6",
+    "company": "regie_autonome_fes",
+    "transportType": "urban_bus",
+    "origin": "regie_autonome_fes_line6_stop1",
+    "destination": "regie_autonome_fes_line6_stop5",
+    "distanceKm": 4.4,
+    "estimatedDuration": 25,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "regie_autonome_fes_line6_stop1",
+        "name": "Stop 6-1",
+        "lat": 34.01708456396539,
+        "lng": -5.013692733247684
+      },
+      {
+        "id": "regie_autonome_fes_line6_stop2",
+        "name": "Stop 6-2",
+        "lat": 34.03413504726481,
+        "lng": -5.012731527055557
+      },
+      {
+        "id": "regie_autonome_fes_line6_stop3",
+        "name": "Stop 6-3",
+        "lat": 33.983346040934,
+        "lng": -4.968711118625009
+      },
+      {
+        "id": "regie_autonome_fes_line6_stop4",
+        "name": "Stop 6-4",
+        "lat": 33.99511371767765,
+        "lng": -4.972907998776993
+      },
+      {
+        "id": "regie_autonome_fes_line6_stop5",
+        "name": "Stop 6-5",
+        "lat": 34.055245040190684,
+        "lng": -5.026596228366069
+      }
+    ]
+  }
+]

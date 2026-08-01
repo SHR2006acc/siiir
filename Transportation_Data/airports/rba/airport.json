@@ -1,0 +1,16 @@
+{
+  "airportId": "rba",
+  "name": "Rabat-Sal\u00e9",
+  "city": "rabat",
+  "region": "Rabat-Sal\u00e9-K\u00e9nitra",
+  "IATA": "RBA",
+  "ICAO": "GMME",
+  "latitude": 34.0515,
+  "longitude": -6.7517,
+  "elevation": 84,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-rba",
+  "description": "Rabat-Sal\u00e9 serves Rabat and surrounding areas."
+}

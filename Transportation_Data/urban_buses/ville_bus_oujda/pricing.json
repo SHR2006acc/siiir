@@ -1,0 +1,44 @@
+[
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "price": 3.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "price": 3.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "price": 3.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "routeId": "royal_air_maroc_cmn_ouz",
+    "price": 1253,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_ouz",
+    "price": 1879,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_eun",
+    "price": 742,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_eun",
+    "price": 1113,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_ahm",
+    "price": 1255,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_oud",
+    "price": 1484,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_oud",
+    "price": 2226,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_dak",
+    "price": 777,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "royal_air_maroc_cmn_dak",
+    "price": 1165,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

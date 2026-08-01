@@ -1,0 +1,9 @@
+{
+  "/api/ai/route": "app/api/ai/route.js",
+  "/search/page": "app/search/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/page": "app/page.js",
+  "/ai/page": "app/ai/page.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/journey/[journeyId]/page": "app/journey/[journeyId]/page.js"
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "11:15",
+    "arrivalTime": "11:42",
+    "duration": 27,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "17:45",
+    "arrivalTime": "18:12",
+    "duration": 27,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "09:00",
+    "arrivalTime": "09:27",
+    "duration": 27,
+    "availableSeats": 46,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "22:15",
+    "arrivalTime": "22:42",
+    "duration": 27,
+    "availableSeats": 38,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "08:15",
+    "arrivalTime": "08:42",
+    "duration": 27,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "19:30",
+    "arrivalTime": "19:57",
+    "duration": 27,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "12:00",
+    "arrivalTime": "12:27",
+    "duration": 27,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "13:00",
+    "arrivalTime": "13:27",
+    "duration": 27,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "14:15",
+    "arrivalTime": "14:42",
+    "duration": 27,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "07:45",
+    "arrivalTime": "08:12",
+    "duration": 27,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "16:15",
+    "arrivalTime": "16:42",
+    "duration": 27,
+    "availableSeats": 49,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "departureTime": "06:00",
+    "arrivalTime": "06:27",
+    "duration": 27,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "19:30",
+    "arrivalTime": "19:49",
+    "duration": 19,
+    "availableSeats": 33,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "22:00",
+    "arrivalTime": "22:19",
+    "duration": 19,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "15:45",
+    "arrivalTime": "16:04",
+    "duration": 19,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "11:45",
+    "arrivalTime": "12:04",
+    "duration": 19,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "07:00",
+    "arrivalTime": "07:19",
+    "duration": 19,
+    "availableSeats": 39,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "12:15",
+    "arrivalTime": "12:34",
+    "duration": 19,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "17:30",
+    "arrivalTime": "17:49",
+    "duration": 19,
+    "availableSeats": 30,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "21:30",
+    "arrivalTime": "21:49",
+    "duration": 19,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "14:30",
+    "arrivalTime": "14:49",
+    "duration": 19,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "13:45",
+    "arrivalTime": "14:04",
+    "duration": 19,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "20:15",
+    "arrivalTime": "20:34",
+    "duration": 19,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "departureTime": "18:15",
+    "arrivalTime": "18:34",
+    "duration": 19,
+    "availableSeats": 50,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "17:00",
+    "arrivalTime": "17:09",
+    "duration": 9,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "06:15",
+    "arrivalTime": "06:24",
+    "duration": 9,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "16:30",
+    "arrivalTime": "16:39",
+    "duration": 9,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "20:30",
+    "arrivalTime": "20:39",
+    "duration": 9,
+    "availableSeats": 47,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "22:15",
+    "arrivalTime": "22:24",
+    "duration": 9,
+    "availableSeats": 23,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "12:15",
+    "arrivalTime": "12:24",
+    "duration": 9,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "10:00",
+    "arrivalTime": "10:09",
+    "duration": 9,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "14:45",
+    "arrivalTime": "14:54",
+    "duration": 9,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "08:30",
+    "arrivalTime": "08:39",
+    "duration": 9,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "09:45",
+    "arrivalTime": "09:54",
+    "duration": 9,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "15:15",
+    "arrivalTime": "15:24",
+    "duration": 9,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "departureTime": "07:45",
+    "arrivalTime": "07:54",
+    "duration": 9,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "11:00",
+    "arrivalTime": "11:06",
+    "duration": 6,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "13:45",
+    "arrivalTime": "13:51",
+    "duration": 6,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "07:45",
+    "arrivalTime": "07:51",
+    "duration": 6,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "14:15",
+    "arrivalTime": "14:21",
+    "duration": 6,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "22:00",
+    "arrivalTime": "22:06",
+    "duration": 6,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "20:45",
+    "arrivalTime": "20:51",
+    "duration": 6,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "10:45",
+    "arrivalTime": "10:51",
+    "duration": 6,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "06:15",
+    "arrivalTime": "06:21",
+    "duration": 6,
+    "availableSeats": 28,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "16:00",
+    "arrivalTime": "16:06",
+    "duration": 6,
+    "availableSeats": 33,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "09:45",
+    "arrivalTime": "09:51",
+    "duration": 6,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "12:30",
+    "arrivalTime": "12:36",
+    "duration": 6,
+    "availableSeats": 28,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "departureTime": "18:45",
+    "arrivalTime": "18:51",
+    "duration": 6,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "13:30",
+    "arrivalTime": "14:01",
+    "duration": 31,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "06:30",
+    "arrivalTime": "07:01",
+    "duration": 31,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "15:15",
+    "arrivalTime": "15:46",
+    "duration": 31,
+    "availableSeats": 22,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "22:00",
+    "arrivalTime": "22:31",
+    "duration": 31,
+    "availableSeats": 39,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "14:15",
+    "arrivalTime": "14:46",
+    "duration": 31,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "17:15",
+    "arrivalTime": "17:46",
+    "duration": 31,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "19:15",
+    "arrivalTime": "19:46",
+    "duration": 31,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "16:45",
+    "arrivalTime": "17:16",
+    "duration": 31,
+    "availableSeats": 31,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "12:30",
+    "arrivalTime": "13:01",
+    "duration": 31,
+    "availableSeats": 49,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "08:00",
+    "arrivalTime": "08:31",
+    "duration": 31,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "07:00",
+    "arrivalTime": "07:31",
+    "duration": 31,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "departureTime": "21:00",
+    "arrivalTime": "21:31",
+    "duration": 31,
+    "availableSeats": 24,
+    "status": "scheduled"
+  }
+]

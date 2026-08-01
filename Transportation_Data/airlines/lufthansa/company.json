@@ -1,0 +1,15 @@
+{
+  "id": "lufthansa",
+  "name": "Lufthansa",
+  "shortName": "LH",
+  "country": "Germany",
+  "website": "https://www.lufthansa.com",
+  "headquarters": "Frankfurt",
+  "founded": 1953,
+  "transportType": "air",
+  "description": "German flag carrier",
+  "alliance": "Star Alliance",
+  "status": "active",
+  "primaryColor": "#002c6c",
+  "secondaryColor": "#e2001a"
+}

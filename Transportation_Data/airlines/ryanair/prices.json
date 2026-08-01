@@ -1,0 +1,58 @@
+[
+  {
+    "routeId": "ryanair_rak_eun",
+    "price": 927,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ryanair_rak_ndr",
+    "price": 2255,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ryanair_rak_ndr",
+    "price": 3382,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "ryanair_rak_fes",
+    "price": 954,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ryanair_rak_fes",
+    "price": 1431,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "ryanair_rak_cmn",
+    "price": 1735,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "ryanair_rak_cmn",
+    "price": 2602,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "ryanair_rak_rba",
+    "price": 1292,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  }
+]

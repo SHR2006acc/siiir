@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "turkish_airlines_ahm_eun",
+    "company": "turkish_airlines",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "eun",
+    "distanceKm": 1261.1,
+    "estimatedDuration": 129,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "turkish_airlines_ahm_rak",
+    "company": "turkish_airlines",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "rak",
+    "distanceKm": 556.4,
+    "estimatedDuration": 77,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "turkish_airlines_ahm_oud",
+    "company": "turkish_airlines",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "oud",
+    "distanceKm": 180.3,
+    "estimatedDuration": 58,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "turkish_airlines_ahm_ouz",
+    "company": "turkish_airlines",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "ouz",
+    "distanceKm": 551.6,
+    "estimatedDuration": 70,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "turkish_airlines_ahm_rba",
+    "company": "turkish_airlines",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "rba",
+    "distanceKm": 294.6,
+    "estimatedDuration": 41,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Morocco Transport Map</title>
+
+    <!-- ============================================================
+     STEP 1 & 2: Leaflet core CSS/JS + OpenStreetMap tiles
+     ============================================================ -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- ============================================================
+     STEP 4: Leaflet Routing Machine (draws routes using OSRM)
+     ============================================================ -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css"
+    />
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+
+    <!-- Small geocoder plugin -> wraps Nominatim search calls for us -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.css"
+    />
+    <script src="https://unpkg.com/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.js"></script>
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100vh;
+        width: 100%;
+      }
+
+      /* Custom marker icon styles for your own data (Step 5) */
+      .my-marker-icon {
+        background: #1f6feb;
+        border-radius: 50%;
+        border: 2px solid white;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+      }
+
+      .leaflet-routing-container {
+        max-height: 60vh;
+        overflow-y: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script>
+      /* ================================================================
+   STEP 1: Create the map
+   - L.map('map') binds Leaflet to the <div id="map"> above
+   - setView([lat, lng], zoomLevel) centers on Morocco (Casablanca)
+================================================================ */
+      const map = L.map("map").setView([33.5731, -7.5898], 6);
+
+      /* ================================================================
+   STEP 2: Add OpenStreetMap tiles
+   - {s} = subdomain (a/b/c load-balancing), {z}/{x}/{y} = zoom/tile coords
+   - Leaflet fills these in automatically as you pan/zoom
+   - You do NOT host these tiles yourself — OSM's servers serve them
+   - IMPORTANT: OSM's own tile servers have USAGE LIMITS. For anything
+     beyond light testing/personal use, switch the url to a paid
+     tile provider (MapTiler, Stadia Maps, Mapbox, Thunderforest, etc.)
+     that mirrors OSM data but won't rate-limit or block you.
+================================================================ */
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+      /* ================================================================
+   STEP 3: Search bar using Nominatim
+   - L.Control.Geocoder wraps Nominatim's REST API for you
+   - By default it calls https://nominatim.openstreetmap.org
+   - IMPORTANT (boring but critical detail): Nominatim's public
+     instance has a STRICT usage policy:
+       -> max 1 request/second
+       -> you MUST set a real User-Agent / Referer identifying your app
+       -> no heavy/automated bulk geocoding
+     For a real product, self-host Nominatim OR use a paid geocoding
+     API (LocationIQ, Mapbox Geocoding, Geoapify all offer generous
+     free tiers and are drop-in compatible with this same plugin).
+================================================================ */
+      const geocoder = L.Control.geocoder({
+        defaultMarkGeocode: false, // we handle what happens on result ourselves
+        placeholder: "Search: Casablanca, Rabat Ville, Mohammed V Airport...",
+        geocoder: L.Control.Geocoder.nominatim({
+          geocodingQueryParams: {
+            countrycodes: "ma", // bias/limit results to Morocco (optional)
+          },
+        }),
+      })
+        .on("markgeocode", function (e) {
+          const bbox = e.geocode.bbox;
+          const center = e.geocode.center;
+
+          // Drop a marker where the user searched
+          L.marker(center).addTo(map).bindPopup(e.geocode.name).openPopup();
+
+          // Zoom the map to fit the found place
+          map.fitBounds(bbox);
+        })
+        .addTo(map);
+
+      /* ================================================================
+   STEP 4: Routing (From -> To) using OSRM
+   - L.Routing.control creates the two input boxes (From/To) AND
+     draws the route line, distance, ETA, and turn-by-turn steps
+   - By default it uses the PUBLIC OSRM demo server
+     (router.project-osrm.org) — same rules apply as Nominatim:
+     fine for testing, NOT for production traffic. Self-host OSRM
+     with Morocco's .osm.pbf extract, or use a paid routing API
+     (OpenRouteService, Mapbox Directions, GraphHopper) for real use.
+================================================================ */
+      const routingControl = L.Routing.control({
+        waypoints: [
+          L.latLng(33.5731, -7.5898), // Casablanca
+          L.latLng(35.7595, -5.834), // Tangier
+        ],
+        routeWhileDragging: true, // live-update route if user drags a waypoint
+        showAlternatives: true, // show alternate routes if OSRM finds them
+        lineOptions: {
+          styles: [{ color: "#1f6feb", weight: 5, opacity: 0.8 }],
+        },
+        router: L.Routing.osrmv1({
+          serviceUrl: "https://router.project-osrm.org/route/v1",
+        }),
+      }).addTo(map);
+
+      /* ================================================================
+   STEP 5: Your own data (ONCF stations, CTM stops, taxis, hotels...)
+   - In a real app this array would come from YOUR database via a
+     fetch() call to your own backend API, e.g.:
+       fetch('/api/oncf-stations').then(r => r.json()).then(renderStations)
+   - Below is hard-coded sample data so you can see it working
+     immediately. Replace `sampleStations` with your real fetch call.
+================================================================ */
+
+      // Custom icon so your stations look different from generic pins
+      const trainIcon = L.divIcon({
+        className: "my-marker-icon",
+        html: "🚆",
+        iconSize: [28, 28],
+      });
+
+      const hotelIcon = L.divIcon({
+        className: "my-marker-icon",
+        html: "🏨",
+        iconSize: [28, 28],
+      });
+
+      // Sample data — swap this for data pulled from your own database
+      const sampleStations = [
+        { type: "oncf", name: "Casa-Voyageurs", lat: 33.5928, lng: -7.6035 },
+        { type: "oncf", name: "Tanger Ville", lat: 35.7823, lng: -5.8134 },
+        {
+          type: "hotel",
+          name: "Hotel Kenzi Tower",
+          lat: 33.5921,
+          lng: -7.6326,
+        },
+      ];
+
+      // Group markers into a "layer" so they can be toggled on/off together
+      const stationsLayer = L.layerGroup();
+
+      sampleStations.forEach((s) => {
+        const icon = s.type === "oncf" ? trainIcon : hotelIcon;
+        L.marker([s.lat, s.lng], { icon })
+          .addTo(stationsLayer)
+          .bindPopup(`<b>${s.name}</b><br>${s.type.toUpperCase()}`);
+      });
+
+      stationsLayer.addTo(map);
+
+      // Layer control lets users show/hide your custom data on top of OSM
+      L.control
+        .layers(
+          null,
+          {
+            "Stations & Hotels": stationsLayer,
+          },
+          { collapsed: false },
+        )
+        .addTo(map);
+    </script>
+  </body>
+</html>

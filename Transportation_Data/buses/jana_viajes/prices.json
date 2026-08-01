@@ -1,0 +1,107 @@
+[
+  {
+    "routeId": "jana_viajes_casablanca_safi",
+    "price": 569,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_casablanca_laayoune",
+    "price": 2269,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_casablanca_ouarzazate",
+    "price": 774,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_kenitra_el_jadida",
+    "price": 562,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_kenitra_errachidia",
+    "price": 832,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_kenitra_berkane",
+    "price": 1009,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_essaouira_marrakech",
+    "price": 442,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_essaouira_ifrane",
+    "price": 1264,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_essaouira_tangier",
+    "price": 1531,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_tangier_taza",
+    "price": 638,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_tangier_mohammedia",
+    "price": 694,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_tangier_al_hoceima",
+    "price": 496,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_rabat_taza",
+    "price": 683,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_rabat_beni_mellal",
+    "price": 516,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "jana_viajes_rabat_mohammedia",
+    "price": 192,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "supratours_tetouan_ksar_el_kebir",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "ksar_el_kebir",
+    "distanceKm": 79.6,
+    "estimatedDuration": 132,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_tetouan_fes",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "fes",
+    "distanceKm": 176.2,
+    "estimatedDuration": 222,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_tetouan_marrakech",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "marrakech",
+    "distanceKm": 500.6,
+    "estimatedDuration": 618,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_safi",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "safi",
+    "distanceKm": 430.6,
+    "estimatedDuration": 540,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_meknes",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "meknes",
+    "distanceKm": 127.0,
+    "estimatedDuration": 166,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_tangier",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "tangier",
+    "distanceKm": 84.7,
+    "estimatedDuration": 141,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_safi_marrakech",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "marrakech",
+    "distanceKm": 139.6,
+    "estimatedDuration": 182,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_safi_casablanca",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "casablanca",
+    "distanceKm": 208.8,
+    "estimatedDuration": 290,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_safi_nador",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "safi",
+    "destination": "nador",
+    "distanceKm": 663.9,
+    "estimatedDuration": 811,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_al_hoceima_errachidia",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "al_hoceima",
+    "destination": "errachidia",
+    "distanceKm": 371.4,
+    "estimatedDuration": 482,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_al_hoceima_el_jadida",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "al_hoceima",
+    "destination": "el_jadida",
+    "distanceKm": 475.1,
+    "estimatedDuration": 609,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_al_hoceima_casablanca",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "al_hoceima",
+    "destination": "casablanca",
+    "distanceKm": 383.4,
+    "estimatedDuration": 500,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_kenitra_ksar_el_kebir",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "ksar_el_kebir",
+    "distanceKm": 103.1,
+    "estimatedDuration": 150,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_kenitra_casablanca",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "casablanca",
+    "distanceKm": 120.5,
+    "estimatedDuration": 175,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "supratours_kenitra_taza",
+    "company": "supratours",
+    "transportType": "bus",
+    "origin": "kenitra",
+    "destination": "taza",
+    "distanceKm": 235.7,
+    "estimatedDuration": 311,
+    "numberOfStops": 3,
+    "direct": true
+  }
+]

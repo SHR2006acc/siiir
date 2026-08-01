@@ -1,0 +1,235 @@
+[
+  {
+    "routeId": "alsa_rabat_sale_line_1",
+    "company": "alsa_rabat_sale",
+    "transportType": "urban_bus",
+    "origin": "alsa_rabat_sale_line1_stop1",
+    "destination": "alsa_rabat_sale_line1_stop5",
+    "distanceKm": 5.3,
+    "estimatedDuration": 27,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_rabat_sale_line1_stop1",
+        "name": "Stop 1-1",
+        "lat": 34.02292716159751,
+        "lng": -6.881437825028655
+      },
+      {
+        "id": "alsa_rabat_sale_line1_stop2",
+        "name": "Stop 1-2",
+        "lat": 34.0464704393104,
+        "lng": -6.873595532310636
+      },
+      {
+        "id": "alsa_rabat_sale_line1_stop3",
+        "name": "Stop 1-3",
+        "lat": 33.973963247457974,
+        "lng": -6.877570155175465
+      },
+      {
+        "id": "alsa_rabat_sale_line1_stop4",
+        "name": "Stop 1-4",
+        "lat": 34.043155016094985,
+        "lng": -6.891001154863538
+      },
+      {
+        "id": "alsa_rabat_sale_line1_stop5",
+        "name": "Stop 1-5",
+        "lat": 33.98783255533269,
+        "lng": -6.842004754605465
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_2",
+    "company": "alsa_rabat_sale",
+    "transportType": "urban_bus",
+    "origin": "alsa_rabat_sale_line2_stop1",
+    "destination": "alsa_rabat_sale_line2_stop5",
+    "distanceKm": 2.7,
+    "estimatedDuration": 19,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_rabat_sale_line2_stop1",
+        "name": "Stop 2-1",
+        "lat": 34.050353215791105,
+        "lng": -6.833250441142752
+      },
+      {
+        "id": "alsa_rabat_sale_line2_stop2",
+        "name": "Stop 2-2",
+        "lat": 34.054732462716096,
+        "lng": -6.799892948291392
+      },
+      {
+        "id": "alsa_rabat_sale_line2_stop3",
+        "name": "Stop 2-3",
+        "lat": 34.033171542751326,
+        "lng": -6.825181012581863
+      },
+      {
+        "id": "alsa_rabat_sale_line2_stop4",
+        "name": "Stop 2-4",
+        "lat": 34.02104102803668,
+        "lng": -6.861498549083848
+      },
+      {
+        "id": "alsa_rabat_sale_line2_stop5",
+        "name": "Stop 2-5",
+        "lat": 34.028046641572324,
+        "lng": -6.845027570812271
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_3",
+    "company": "alsa_rabat_sale",
+    "transportType": "urban_bus",
+    "origin": "alsa_rabat_sale_line3_stop1",
+    "destination": "alsa_rabat_sale_line3_stop7",
+    "distanceKm": 0.2,
+    "estimatedDuration": 9,
+    "numberOfStops": 5,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_rabat_sale_line3_stop1",
+        "name": "Stop 3-1",
+        "lat": 34.03937687854216,
+        "lng": -6.869862670403925
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop2",
+        "name": "Stop 3-2",
+        "lat": 34.03317609428281,
+        "lng": -6.805664725876127
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop3",
+        "name": "Stop 3-3",
+        "lat": 33.977472198235915,
+        "lng": -6.883427806850588
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop4",
+        "name": "Stop 3-4",
+        "lat": 33.972875947239515,
+        "lng": -6.795803514289127
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop5",
+        "name": "Stop 3-5",
+        "lat": 34.04871725784579,
+        "lng": -6.827085815810163
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop6",
+        "name": "Stop 3-6",
+        "lat": 34.04399462296782,
+        "lng": -6.862159032737816
+      },
+      {
+        "id": "alsa_rabat_sale_line3_stop7",
+        "name": "Stop 3-7",
+        "lat": 34.03763540776383,
+        "lng": -6.869019779248759
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_4",
+    "company": "alsa_rabat_sale",
+    "transportType": "urban_bus",
+    "origin": "alsa_rabat_sale_line4_stop1",
+    "destination": "alsa_rabat_sale_line4_stop7",
+    "distanceKm": 0.2,
+    "estimatedDuration": 6,
+    "numberOfStops": 5,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_rabat_sale_line4_stop1",
+        "name": "Stop 4-1",
+        "lat": 34.027225987226956,
+        "lng": -6.82044375781535
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop2",
+        "name": "Stop 4-2",
+        "lat": 34.04225901358547,
+        "lng": -6.855424128342219
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop3",
+        "name": "Stop 4-3",
+        "lat": 34.00055671213526,
+        "lng": -6.857649706147859
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop4",
+        "name": "Stop 4-4",
+        "lat": 33.97620353223037,
+        "lng": -6.8356971924358
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop5",
+        "name": "Stop 4-5",
+        "lat": 34.060725987161874,
+        "lng": -6.794657174689194
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop6",
+        "name": "Stop 4-6",
+        "lat": 34.01328077856865,
+        "lng": -6.807720760918896
+      },
+      {
+        "id": "alsa_rabat_sale_line4_stop7",
+        "name": "Stop 4-7",
+        "lat": 34.02596206088506,
+        "lng": -6.822123912509664
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_rabat_sale_line_5",
+    "company": "alsa_rabat_sale",
+    "transportType": "urban_bus",
+    "origin": "alsa_rabat_sale_line5_stop1",
+    "destination": "alsa_rabat_sale_line5_stop4",
+    "distanceKm": 5.9,
+    "estimatedDuration": 31,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_rabat_sale_line5_stop1",
+        "name": "Stop 5-1",
+        "lat": 34.03755961895181,
+        "lng": -6.887262258563971
+      },
+      {
+        "id": "alsa_rabat_sale_line5_stop2",
+        "name": "Stop 5-2",
+        "lat": 34.027682726509866,
+        "lng": -6.8313451794997935
+      },
+      {
+        "id": "alsa_rabat_sale_line5_stop3",
+        "name": "Stop 5-3",
+        "lat": 34.00549367426533,
+        "lng": -6.794278154627026
+      },
+      {
+        "id": "alsa_rabat_sale_line5_stop4",
+        "name": "Stop 5-4",
+        "lat": 34.063899142593094,
+        "lng": -6.832142783066106
+      }
+    ]
+  }
+]

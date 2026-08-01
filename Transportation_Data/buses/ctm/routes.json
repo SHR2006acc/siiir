@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "ctm_berkane_ksar_el_kebir",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "berkane",
+    "destination": "ksar_el_kebir",
+    "distanceKm": 326.7,
+    "estimatedDuration": 413,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_berkane_chefchaouen",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "berkane",
+    "destination": "chefchaouen",
+    "distanceKm": 270.3,
+    "estimatedDuration": 350,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_berkane_ifrane",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "berkane",
+    "destination": "ifrane",
+    "distanceKm": 299.9,
+    "estimatedDuration": 396,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_casablanca_agadir",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "agadir",
+    "distanceKm": 397.7,
+    "estimatedDuration": 492,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_casablanca_taza",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "taza",
+    "distanceKm": 337.4,
+    "estimatedDuration": 432,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_casablanca_el_jadida",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "casablanca",
+    "destination": "el_jadida",
+    "distanceKm": 92.3,
+    "estimatedDuration": 132,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_errachidia_taza",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "errachidia",
+    "destination": "taza",
+    "distanceKm": 256.6,
+    "estimatedDuration": 346,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_errachidia_tetouan",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "errachidia",
+    "destination": "tetouan",
+    "distanceKm": 414.4,
+    "estimatedDuration": 528,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_errachidia_al_hoceima",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "errachidia",
+    "destination": "al_hoceima",
+    "distanceKm": 371.4,
+    "estimatedDuration": 461,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_marrakech_errachidia",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "errachidia",
+    "distanceKm": 338.6,
+    "estimatedDuration": 440,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_marrakech_fes",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "fes",
+    "distanceKm": 384.3,
+    "estimatedDuration": 474,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_marrakech_rabat",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "marrakech",
+    "destination": "rabat",
+    "distanceKm": 286.4,
+    "estimatedDuration": 354,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_oujda_marrakech",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "marrakech",
+    "distanceKm": 659.1,
+    "estimatedDuration": 803,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_oujda_chefchaouen",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "chefchaouen",
+    "distanceKm": 311.2,
+    "estimatedDuration": 399,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "ctm_oujda_taza",
+    "company": "ctm",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "taza",
+    "distanceKm": 200.1,
+    "estimatedDuration": 259,
+    "numberOfStops": 1,
+    "direct": true
+  }
+]

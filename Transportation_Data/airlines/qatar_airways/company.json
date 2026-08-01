@@ -1,0 +1,15 @@
+{
+  "id": "qatar_airways",
+  "name": "Qatar Airways",
+  "shortName": "QR",
+  "country": "Qatar",
+  "website": "https://www.qatarairways.com",
+  "headquarters": "Doha",
+  "founded": 1993,
+  "transportType": "air",
+  "description": "Qatari flag carrier",
+  "alliance": "Oneworld",
+  "status": "active",
+  "primaryColor": "#8a1538",
+  "secondaryColor": "#d49b3b"
+}

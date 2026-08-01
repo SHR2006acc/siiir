@@ -1,0 +1,578 @@
+[
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "17:45",
+    "arrivalTime": "17:54",
+    "duration": 9,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "07:30",
+    "arrivalTime": "07:39",
+    "duration": 9,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "21:15",
+    "arrivalTime": "21:24",
+    "duration": 9,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "18:00",
+    "arrivalTime": "18:09",
+    "duration": 9,
+    "availableSeats": 44,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "13:30",
+    "arrivalTime": "13:39",
+    "duration": 9,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "14:45",
+    "arrivalTime": "14:54",
+    "duration": 9,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "09:15",
+    "arrivalTime": "09:24",
+    "duration": 9,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "16:15",
+    "arrivalTime": "16:24",
+    "duration": 9,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "20:15",
+    "arrivalTime": "20:24",
+    "duration": 9,
+    "availableSeats": 38,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "19:30",
+    "arrivalTime": "19:39",
+    "duration": 9,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "15:30",
+    "arrivalTime": "15:39",
+    "duration": 9,
+    "availableSeats": 28,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_1",
+    "departureTime": "08:00",
+    "arrivalTime": "08:09",
+    "duration": 9,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "10:30",
+    "arrivalTime": "11:10",
+    "duration": 40,
+    "availableSeats": 39,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "09:15",
+    "arrivalTime": "09:55",
+    "duration": 40,
+    "availableSeats": 38,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "22:15",
+    "arrivalTime": "22:55",
+    "duration": 40,
+    "availableSeats": 39,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "14:45",
+    "arrivalTime": "15:25",
+    "duration": 40,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "06:45",
+    "arrivalTime": "07:25",
+    "duration": 40,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "17:00",
+    "arrivalTime": "17:40",
+    "duration": 40,
+    "availableSeats": 36,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "20:30",
+    "arrivalTime": "21:10",
+    "duration": 40,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "16:15",
+    "arrivalTime": "16:55",
+    "duration": 40,
+    "availableSeats": 29,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "15:00",
+    "arrivalTime": "15:40",
+    "duration": 40,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "21:30",
+    "arrivalTime": "22:10",
+    "duration": 40,
+    "availableSeats": 47,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "08:45",
+    "arrivalTime": "09:25",
+    "duration": 40,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_2",
+    "departureTime": "18:00",
+    "arrivalTime": "18:40",
+    "duration": 40,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "17:15",
+    "arrivalTime": "17:36",
+    "duration": 21,
+    "availableSeats": 35,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "10:45",
+    "arrivalTime": "11:06",
+    "duration": 21,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "08:30",
+    "arrivalTime": "08:51",
+    "duration": 21,
+    "availableSeats": 23,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "15:00",
+    "arrivalTime": "15:21",
+    "duration": 21,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "12:45",
+    "arrivalTime": "13:06",
+    "duration": 21,
+    "availableSeats": 49,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "21:30",
+    "arrivalTime": "21:51",
+    "duration": 21,
+    "availableSeats": 25,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "07:15",
+    "arrivalTime": "07:36",
+    "duration": 21,
+    "availableSeats": 33,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "20:30",
+    "arrivalTime": "20:51",
+    "duration": 21,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "16:00",
+    "arrivalTime": "16:21",
+    "duration": 21,
+    "availableSeats": 46,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "19:30",
+    "arrivalTime": "19:51",
+    "duration": 21,
+    "availableSeats": 48,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "18:00",
+    "arrivalTime": "18:21",
+    "duration": 21,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_3",
+    "departureTime": "11:45",
+    "arrivalTime": "12:06",
+    "duration": 21,
+    "availableSeats": 23,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "15:30",
+    "arrivalTime": "15:41",
+    "duration": 11,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "08:15",
+    "arrivalTime": "08:26",
+    "duration": 11,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "10:00",
+    "arrivalTime": "10:11",
+    "duration": 11,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "19:45",
+    "arrivalTime": "19:56",
+    "duration": 11,
+    "availableSeats": 30,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "06:30",
+    "arrivalTime": "06:41",
+    "duration": 11,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "14:45",
+    "arrivalTime": "14:56",
+    "duration": 11,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "18:45",
+    "arrivalTime": "18:56",
+    "duration": 11,
+    "availableSeats": 20,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "07:15",
+    "arrivalTime": "07:26",
+    "duration": 11,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "12:30",
+    "arrivalTime": "12:41",
+    "duration": 11,
+    "availableSeats": 40,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "13:15",
+    "arrivalTime": "13:26",
+    "duration": 11,
+    "availableSeats": 46,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "09:00",
+    "arrivalTime": "09:11",
+    "duration": 11,
+    "availableSeats": 48,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_4",
+    "departureTime": "21:30",
+    "arrivalTime": "21:41",
+    "duration": 11,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "06:15",
+    "arrivalTime": "06:41",
+    "duration": 26,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "12:45",
+    "arrivalTime": "13:11",
+    "duration": 26,
+    "availableSeats": 47,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "09:15",
+    "arrivalTime": "09:41",
+    "duration": 26,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "19:15",
+    "arrivalTime": "19:41",
+    "duration": 26,
+    "availableSeats": 42,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "18:00",
+    "arrivalTime": "18:26",
+    "duration": 26,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "20:15",
+    "arrivalTime": "20:41",
+    "duration": 26,
+    "availableSeats": 34,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "17:45",
+    "arrivalTime": "18:11",
+    "duration": 26,
+    "availableSeats": 43,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "13:00",
+    "arrivalTime": "13:26",
+    "duration": 26,
+    "availableSeats": 44,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "21:30",
+    "arrivalTime": "21:56",
+    "duration": 26,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "14:00",
+    "arrivalTime": "14:26",
+    "duration": 26,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "07:45",
+    "arrivalTime": "08:11",
+    "duration": 26,
+    "availableSeats": 27,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_5",
+    "departureTime": "11:45",
+    "arrivalTime": "12:11",
+    "duration": 26,
+    "availableSeats": 33,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "17:15",
+    "arrivalTime": "17:44",
+    "duration": 29,
+    "availableSeats": 32,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "14:30",
+    "arrivalTime": "14:59",
+    "duration": 29,
+    "availableSeats": 21,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "16:00",
+    "arrivalTime": "16:29",
+    "duration": 29,
+    "availableSeats": 31,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "08:15",
+    "arrivalTime": "08:44",
+    "duration": 29,
+    "availableSeats": 38,
+    "status": "cancelled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "11:15",
+    "arrivalTime": "11:44",
+    "duration": 29,
+    "availableSeats": 39,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "22:45",
+    "arrivalTime": "23:14",
+    "duration": 29,
+    "availableSeats": 41,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "13:30",
+    "arrivalTime": "13:59",
+    "duration": 29,
+    "availableSeats": 24,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "21:45",
+    "arrivalTime": "22:14",
+    "duration": 29,
+    "availableSeats": 45,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "18:30",
+    "arrivalTime": "18:59",
+    "duration": 29,
+    "availableSeats": 49,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "10:00",
+    "arrivalTime": "10:29",
+    "duration": 29,
+    "availableSeats": 26,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "09:15",
+    "arrivalTime": "09:44",
+    "duration": 29,
+    "availableSeats": 37,
+    "status": "scheduled"
+  },
+  {
+    "routeId": "ville_bus_oujda_line_6",
+    "departureTime": "07:00",
+    "arrivalTime": "07:29",
+    "duration": 29,
+    "availableSeats": 44,
+    "status": "scheduled"
+  }
+]

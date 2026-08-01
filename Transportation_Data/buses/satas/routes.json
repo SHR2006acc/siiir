@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "satas_khouribga_fes",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "fes",
+    "distanceKm": 216.9,
+    "estimatedDuration": 299,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "satas_khouribga_safi",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "safi",
+    "distanceKm": 227.4,
+    "estimatedDuration": 294,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "satas_khouribga_tetouan",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "tetouan",
+    "distanceKm": 331.0,
+    "estimatedDuration": 432,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ifrane_nador",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ifrane",
+    "destination": "nador",
+    "distanceKm": 270.5,
+    "estimatedDuration": 354,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ifrane_chefchaouen",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ifrane",
+    "destination": "chefchaouen",
+    "distanceKm": 182.4,
+    "estimatedDuration": 256,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ifrane_agadir",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ifrane",
+    "destination": "agadir",
+    "distanceKm": 545.7,
+    "estimatedDuration": 690,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "satas_laayoune_casablanca",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "laayoune",
+    "destination": "casablanca",
+    "distanceKm": 893.8,
+    "estimatedDuration": 1097,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "satas_laayoune_marrakech",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "laayoune",
+    "destination": "marrakech",
+    "distanceKm": 709.5,
+    "estimatedDuration": 868,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "satas_laayoune_safi",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "laayoune",
+    "destination": "safi",
+    "distanceKm": 688.5,
+    "estimatedDuration": 863,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ksar_el_kebir_al_hoceima",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "al_hoceima",
+    "distanceKm": 180.6,
+    "estimatedDuration": 255,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ksar_el_kebir_fes",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "fes",
+    "distanceKm": 136.4,
+    "estimatedDuration": 182,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "satas_ksar_el_kebir_essaouira",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "ksar_el_kebir",
+    "destination": "essaouira",
+    "distanceKm": 528.8,
+    "estimatedDuration": 657,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "satas_dakhla_ouarzazate",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "dakhla",
+    "destination": "ouarzazate",
+    "distanceKm": 1202.5,
+    "estimatedDuration": 1465,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "satas_dakhla_fes",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "dakhla",
+    "destination": "fes",
+    "distanceKm": 1565.5,
+    "estimatedDuration": 1909,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "satas_dakhla_chefchaouen",
+    "company": "satas",
+    "transportType": "bus",
+    "origin": "dakhla",
+    "destination": "chefchaouen",
+    "distanceKm": 1641.4,
+    "estimatedDuration": 2000,
+    "numberOfStops": 3,
+    "direct": true
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "supratours",
+  "name": "Supratours",
+  "shortName": "ST",
+  "country": "Morocco",
+  "website": "https://www.supratours.ma",
+  "headquarters": "Casablanca",
+  "founded": 1960,
+  "transportType": "bus",
+  "description": "Bus company",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#d71921",
+  "secondaryColor": "#ffffff"
+}

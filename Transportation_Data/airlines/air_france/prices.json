@@ -1,0 +1,65 @@
+[
+  {
+    "routeId": "air_france_fes_cmn",
+    "price": 1809,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_france_fes_cmn",
+    "price": 2713,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "air_france_fes_eun",
+    "price": 1039,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_france_fes_eun",
+    "price": 1558,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "air_france_fes_ndr",
+    "price": 1003,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_france_fes_ndr",
+    "price": 1504,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "air_france_fes_dak",
+    "price": 2391,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_france_fes_rba",
+    "price": 2260,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_france_fes_rba",
+    "price": 3390,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "stationId": "regie_autonome_fes_line1_stop1",
+    "name": "Stop 1-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.978910593880514,
+    "longitude": -5.057440706820432
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop2",
+    "name": "Stop 1-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.976322729618616,
+    "longitude": -5.001099052592112
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop3",
+    "name": "Stop 1-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.054626197814706,
+    "longitude": -5.0370978112655855
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop4",
+    "name": "Stop 1-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.042125863124824,
+    "longitude": -4.968539912266637
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop5",
+    "name": "Stop 1-5",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.02284957120598,
+    "longitude": -4.992958640603848
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop6",
+    "name": "Stop 1-6",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.97794393557628,
+    "longitude": -4.997923834494311
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop7",
+    "name": "Stop 1-7",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.04744636104157,
+    "longitude": -5.0402087575530885
+  },
+  {
+    "stationId": "regie_autonome_fes_line1_stop8",
+    "name": "Stop 1-8",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.059771404546204,
+    "longitude": -5.055403292023037
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop1",
+    "name": "Stop 2-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.006308867872065,
+    "longitude": -5.019673516806067
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop2",
+    "name": "Stop 2-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.971345621951706,
+    "longitude": -5.049802603140084
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop3",
+    "name": "Stop 2-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.00563060726875,
+    "longitude": -5.035335845626695
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop4",
+    "name": "Stop 2-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.05638434814304,
+    "longitude": -4.966466111780539
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop5",
+    "name": "Stop 2-5",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.9707641086044,
+    "longitude": -4.98725165999651
+  },
+  {
+    "stationId": "regie_autonome_fes_line2_stop6",
+    "name": "Stop 2-6",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.00144163046461,
+    "longitude": -5.004496606581816
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop1",
+    "name": "Stop 3-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.02480572794032,
+    "longitude": -5.0513584972146655
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop2",
+    "name": "Stop 3-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.972963664529196,
+    "longitude": -4.985166636641012
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop3",
+    "name": "Stop 3-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.02885762627957,
+    "longitude": -5.0533728875515775
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop4",
+    "name": "Stop 3-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.9745818203866,
+    "longitude": -4.989625820744894
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop5",
+    "name": "Stop 3-5",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.062094687938895,
+    "longitude": -5.038837355640843
+  },
+  {
+    "stationId": "regie_autonome_fes_line3_stop6",
+    "name": "Stop 3-6",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.057578020430896,
+    "longitude": -4.992288347498084
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop1",
+    "name": "Stop 4-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.9713538026841,
+    "longitude": -5.026627833905907
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop2",
+    "name": "Stop 4-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.99571336471324,
+    "longitude": -4.987976177265787
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop3",
+    "name": "Stop 4-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.01822133410876,
+    "longitude": -5.046159091668027
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop4",
+    "name": "Stop 4-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.99878994136871,
+    "longitude": -4.965150971784805
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop5",
+    "name": "Stop 4-5",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.05741518049591,
+    "longitude": -4.970095404303263
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop6",
+    "name": "Stop 4-6",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.05088444766116,
+    "longitude": -4.9599869257185185
+  },
+  {
+    "stationId": "regie_autonome_fes_line4_stop7",
+    "name": "Stop 4-7",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.05247788394101,
+    "longitude": -5.0246942831775065
+  },
+  {
+    "stationId": "regie_autonome_fes_line5_stop1",
+    "name": "Stop 5-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.97647887771144,
+    "longitude": -4.993352355765235
+  },
+  {
+    "stationId": "regie_autonome_fes_line5_stop2",
+    "name": "Stop 5-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.98038934860532,
+    "longitude": -4.963075039814937
+  },
+  {
+    "stationId": "regie_autonome_fes_line5_stop3",
+    "name": "Stop 5-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.0407965260162,
+    "longitude": -4.960138739532114
+  },
+  {
+    "stationId": "regie_autonome_fes_line5_stop4",
+    "name": "Stop 5-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.98092297211379,
+    "longitude": -4.996296827561227
+  },
+  {
+    "stationId": "regie_autonome_fes_line6_stop1",
+    "name": "Stop 6-1",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.01708456396539,
+    "longitude": -5.013692733247684
+  },
+  {
+    "stationId": "regie_autonome_fes_line6_stop2",
+    "name": "Stop 6-2",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.03413504726481,
+    "longitude": -5.012731527055557
+  },
+  {
+    "stationId": "regie_autonome_fes_line6_stop3",
+    "name": "Stop 6-3",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.983346040934,
+    "longitude": -4.968711118625009
+  },
+  {
+    "stationId": "regie_autonome_fes_line6_stop4",
+    "name": "Stop 6-4",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 33.99511371767765,
+    "longitude": -4.972907998776993
+  },
+  {
+    "stationId": "regie_autonome_fes_line6_stop5",
+    "name": "Stop 6-5",
+    "city": "fes",
+    "type": "urban_bus_stop",
+    "latitude": 34.055245040190684,
+    "longitude": -5.026596228366069
+  }
+]

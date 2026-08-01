@@ -1,0 +1,130 @@
+[
+  {
+    "stationId": "khouribga_bus",
+    "name": "Gare Routi\u00e8re Khouribga",
+    "city": "khouribga",
+    "type": "bus",
+    "latitude": 32.884861459238934,
+    "longitude": -6.909995155456378
+  },
+  {
+    "stationId": "fes_bus",
+    "name": "Gare Routi\u00e8re F\u00e8s",
+    "city": "fes",
+    "type": "bus",
+    "latitude": 34.01651469260732,
+    "longitude": -5.016574632398788
+  },
+  {
+    "stationId": "safi_bus",
+    "name": "Gare Routi\u00e8re Safi",
+    "city": "safi",
+    "type": "bus",
+    "latitude": 32.291345126206366,
+    "longitude": -9.227005889088844
+  },
+  {
+    "stationId": "tetouan_bus",
+    "name": "Gare Routi\u00e8re T\u00e9touan",
+    "city": "tetouan",
+    "type": "bus",
+    "latitude": 35.580239175805964,
+    "longitude": -5.3722954995386365
+  },
+  {
+    "stationId": "ifrane_bus",
+    "name": "Gare Routi\u00e8re Ifrane",
+    "city": "ifrane",
+    "type": "bus",
+    "latitude": 33.53523819603946,
+    "longitude": -5.119718579393973
+  },
+  {
+    "stationId": "nador_bus",
+    "name": "Gare Routi\u00e8re Nador",
+    "city": "nador",
+    "type": "bus",
+    "latitude": 35.17036083528921,
+    "longitude": -2.932455151857184
+  },
+  {
+    "stationId": "chefchaouen_bus",
+    "name": "Gare Routi\u00e8re Chefchaouen",
+    "city": "chefchaouen",
+    "type": "bus",
+    "latitude": 35.17095022416745,
+    "longitude": -5.276522746402158
+  },
+  {
+    "stationId": "agadir_bus",
+    "name": "Gare Routi\u00e8re Agadir",
+    "city": "agadir",
+    "type": "bus",
+    "latitude": 30.430201322477718,
+    "longitude": -9.590555348017212
+  },
+  {
+    "stationId": "laayoune_bus",
+    "name": "Gare Routi\u00e8re La\u00e2youne",
+    "city": "laayoune",
+    "type": "bus",
+    "latitude": 27.149152276094366,
+    "longitude": -13.198575698936901
+  },
+  {
+    "stationId": "casablanca_bus",
+    "name": "Gare Routi\u00e8re Casablanca",
+    "city": "casablanca",
+    "type": "bus",
+    "latitude": 33.57807341097538,
+    "longitude": -7.58491143485341
+  },
+  {
+    "stationId": "marrakech_bus",
+    "name": "Gare Routi\u00e8re Marrakech",
+    "city": "marrakech",
+    "type": "bus",
+    "latitude": 31.628319164204253,
+    "longitude": -7.9901542804654495
+  },
+  {
+    "stationId": "ksar_el_kebir_bus",
+    "name": "Gare Routi\u00e8re Ksar El Kebir",
+    "city": "ksar_el_kebir",
+    "type": "bus",
+    "latitude": 35.00201785611533,
+    "longitude": -5.898861311883949
+  },
+  {
+    "stationId": "al_hoceima_bus",
+    "name": "Gare Routi\u00e8re Al Hoce\u00efma",
+    "city": "al_hoceima",
+    "type": "bus",
+    "latitude": 35.248632735707474,
+    "longitude": -3.942221089714451
+  },
+  {
+    "stationId": "essaouira_bus",
+    "name": "Gare Routi\u00e8re Essaouira",
+    "city": "essaouira",
+    "type": "bus",
+    "latitude": 31.51046738680746,
+    "longitude": -9.761182409766542
+  },
+  {
+    "stationId": "dakhla_bus",
+    "name": "Gare Routi\u00e8re Dakhla",
+    "city": "dakhla",
+    "type": "bus",
+    "latitude": 23.68825603751863,
+    "longitude": -15.96170053086374
+  },
+  {
+    "stationId": "ouarzazate_bus",
+    "name": "Gare Routi\u00e8re Ouarzazate",
+    "city": "ouarzazate",
+    "type": "bus",
+    "latitude": 30.911089831202183,
+    "longitude": -6.908486492898187
+  }
+]

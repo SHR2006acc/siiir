@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 90" role="img" aria-label="Opérateur de démonstration">
+  <rect width="220" height="90" rx="18" fill="#e3f1ea"/>
+  <path d="M31 56h120V29c0-8-7-14-15-14H58c-10 0-18 6-21 15l-6 26Z" fill="#006b45"/>
+  <path d="M47 25h89c3 0 6 3 6 6v9H42l5-15Z" fill="#fff" opacity=".9"/>
+  <circle cx="58" cy="61" r="11" fill="#173f33"/><circle cx="132" cy="61" r="11" fill="#173f33"/>
+  <text x="166" y="43" font-family="Arial" font-size="12" font-weight="700" text-anchor="middle" fill="#006b45">DEMO</text>
+  <text x="166" y="58" font-family="Arial" font-size="9" text-anchor="middle" fill="#5f6e66">COACH</text>
+</svg>

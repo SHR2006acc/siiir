@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "emirates_rak_tng",
+    "company": "emirates",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "tng",
+    "distanceKm": 498.3,
+    "estimatedDuration": 74,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "emirates_rak_dak",
+    "company": "emirates",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "dak",
+    "distanceKm": 1171.5,
+    "estimatedDuration": 103,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "emirates_rak_oud",
+    "company": "emirates",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "oud",
+    "distanceKm": 669.9,
+    "estimatedDuration": 71,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "emirates_rak_fes",
+    "company": "emirates",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "fes",
+    "distanceKm": 385.1,
+    "estimatedDuration": 62,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "emirates_rak_erh",
+    "company": "emirates",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "erh",
+    "distanceKm": 346.0,
+    "estimatedDuration": 55,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

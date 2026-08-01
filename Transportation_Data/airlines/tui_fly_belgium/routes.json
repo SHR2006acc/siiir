@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "tui_fly_belgium_tng_aga",
+    "company": "tui_fly_belgium",
+    "transportType": "flight",
+    "origin": "tng",
+    "destination": "aga",
+    "distanceKm": 683.3,
+    "estimatedDuration": 78,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_erh",
+    "company": "tui_fly_belgium",
+    "transportType": "flight",
+    "origin": "tng",
+    "destination": "erh",
+    "distanceKm": 443.0,
+    "estimatedDuration": 51,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_ouz",
+    "company": "tui_fly_belgium",
+    "transportType": "flight",
+    "origin": "tng",
+    "destination": "ouz",
+    "distanceKm": 540.3,
+    "estimatedDuration": 62,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_ndr",
+    "company": "tui_fly_belgium",
+    "transportType": "flight",
+    "origin": "tng",
+    "destination": "ndr",
+    "distanceKm": 279.5,
+    "estimatedDuration": 56,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_dak",
+    "company": "tui_fly_belgium",
+    "transportType": "flight",
+    "origin": "tng",
+    "destination": "dak",
+    "distanceKm": 1646.7,
+    "estimatedDuration": 138,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "oncf",
+  "name": "ONCF",
+  "shortName": "ONCF",
+  "country": "Morocco",
+  "website": "https://www.oncf.ma",
+  "headquarters": "Rabat",
+  "founded": 1963,
+  "transportType": "train",
+  "description": "Moroccan National Railways",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#004080",
+  "secondaryColor": "#ffcc00"
+}

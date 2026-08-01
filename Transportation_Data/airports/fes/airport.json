@@ -1,0 +1,16 @@
+{
+  "airportId": "fes",
+  "name": "F\u00e8s-Sa\u00efss",
+  "city": "fes",
+  "region": "F\u00e8s-Mekn\u00e8s",
+  "IATA": "FEZ",
+  "ICAO": "GMFF",
+  "latitude": 33.9273,
+  "longitude": -4.978,
+  "elevation": 579,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-fes",
+  "description": "F\u00e8s-Sa\u00efss serves F\u00e8s and surrounding areas."
+}

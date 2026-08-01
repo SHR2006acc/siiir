@@ -1,0 +1,15 @@
+{
+  "id": "air_arabia_maroc",
+  "name": "Air Arabia Maroc",
+  "shortName": "AAM",
+  "country": "Morocco",
+  "website": "https://www.airarabia.com",
+  "headquarters": "Casablanca",
+  "founded": 2009,
+  "transportType": "air",
+  "description": "Low-cost airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#ff6600",
+  "secondaryColor": "#ffffff"
+}

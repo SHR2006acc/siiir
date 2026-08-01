@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "qatar_airways_rba_erh",
+    "company": "qatar_airways",
+    "transportType": "flight",
+    "origin": "rba",
+    "destination": "erh",
+    "distanceKm": 320.8,
+    "estimatedDuration": 55,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "qatar_airways_rba_dak",
+    "company": "qatar_airways",
+    "transportType": "flight",
+    "origin": "rba",
+    "destination": "dak",
+    "distanceKm": 1454.3,
+    "estimatedDuration": 148,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "qatar_airways_rba_oud",
+    "company": "qatar_airways",
+    "transportType": "flight",
+    "origin": "rba",
+    "destination": "oud",
+    "distanceKm": 450.7,
+    "estimatedDuration": 57,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "qatar_airways_rba_eun",
+    "company": "qatar_airways",
+    "transportType": "flight",
+    "origin": "rba",
+    "destination": "eun",
+    "distanceKm": 985.3,
+    "estimatedDuration": 94,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "qatar_airways_rba_rak",
+    "company": "qatar_airways",
+    "transportType": "flight",
+    "origin": "rba",
+    "destination": "rak",
+    "distanceKm": 297.1,
+    "estimatedDuration": 58,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

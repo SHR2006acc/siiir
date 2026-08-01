@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "lufthansa_ahm_tng",
+    "company": "lufthansa",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "tng",
+    "distanceKm": 197.7,
+    "estimatedDuration": 40,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "lufthansa_ahm_fes",
+    "company": "lufthansa",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "fes",
+    "distanceKm": 174.1,
+    "estimatedDuration": 28,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "lufthansa_ahm_rba",
+    "company": "lufthansa",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "rba",
+    "distanceKm": 294.6,
+    "estimatedDuration": 55,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "lufthansa_ahm_ouz",
+    "company": "lufthansa",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "ouz",
+    "distanceKm": 551.6,
+    "estimatedDuration": 70,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "lufthansa_ahm_rak",
+    "company": "lufthansa",
+    "transportType": "flight",
+    "origin": "ahm",
+    "destination": "rak",
+    "distanceKm": 556.4,
+    "estimatedDuration": 80,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

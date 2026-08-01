@@ -1,0 +1,15 @@
+{
+  "id": "alsa_rabat_sale",
+  "name": "ALSA Rabat-Sal\u00e9",
+  "shortName": "ALSA RS",
+  "country": "Morocco",
+  "website": "https://www.alsa.ma",
+  "headquarters": "Rabat",
+  "founded": 2012,
+  "transportType": "urban_bus",
+  "description": "Urban bus operator in Rabat-Sal\u00e9",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#004080",
+  "secondaryColor": "#ffffff"
+}

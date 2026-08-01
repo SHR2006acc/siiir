@@ -1,0 +1,16 @@
+{
+  "airportId": "ahm",
+  "name": "Al Hoceima",
+  "city": "al_hoceima",
+  "region": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+  "IATA": "AHM",
+  "ICAO": "GMTA",
+  "latitude": 35.1814,
+  "longitude": -3.8397,
+  "elevation": 28,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-ahm",
+  "description": "Al Hoceima serves Al Hoce\u00efma and surrounding areas."
+}

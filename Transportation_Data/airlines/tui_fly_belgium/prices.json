@@ -1,0 +1,44 @@
+[
+  {
+    "routeId": "tui_fly_belgium_tng_aga",
+    "price": 2011,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_erh",
+    "price": 944,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_ouz",
+    "price": 541,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_ouz",
+    "price": 811,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_ndr",
+    "price": 1847,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "tui_fly_belgium_tng_dak",
+    "price": 1224,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  }
+]

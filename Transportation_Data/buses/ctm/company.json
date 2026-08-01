@@ -1,0 +1,15 @@
+{
+  "id": "ctm",
+  "name": "CTM",
+  "shortName": "CTM",
+  "country": "Morocco",
+  "website": "https://www.ctm.ma",
+  "headquarters": "Casablanca",
+  "founded": 1919,
+  "transportType": "bus",
+  "description": "National bus company",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#004080",
+  "secondaryColor": "#ffffff"
+}

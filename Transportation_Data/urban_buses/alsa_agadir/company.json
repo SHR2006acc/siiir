@@ -1,0 +1,15 @@
+{
+  "id": "alsa_agadir",
+  "name": "ALSA Agadir",
+  "shortName": "ALSA AG",
+  "country": "Morocco",
+  "website": "https://www.alsa.ma",
+  "headquarters": "Agadir",
+  "founded": 2015,
+  "transportType": "urban_bus",
+  "description": "Urban bus operator in Agadir",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#f7941e",
+  "secondaryColor": "#ffffff"
+}

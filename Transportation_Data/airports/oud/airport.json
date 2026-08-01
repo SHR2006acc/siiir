@@ -1,0 +1,16 @@
+{
+  "airportId": "oud",
+  "name": "Oujda Angads",
+  "city": "oujda",
+  "region": "Oriental",
+  "IATA": "OUD",
+  "ICAO": "GMFO",
+  "latitude": 34.7872,
+  "longitude": -1.9194,
+  "elevation": 459,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-oud",
+  "description": "Oujda Angads serves Oujda and surrounding areas."
+}

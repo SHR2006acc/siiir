@@ -1,0 +1,107 @@
+[
+  {
+    "routeId": "pullman_du_sud_khouribga_tangier",
+    "price": 875,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_khouribga_dakhla",
+    "price": 3406,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_khouribga_laayoune",
+    "price": 2207,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_tetouan",
+    "price": 247,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_ifrane",
+    "price": 480,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_ksar_el_kebir_errachidia",
+    "price": 965,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_rabat",
+    "price": 1226,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_tangier",
+    "price": 1771,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_agadir_safi",
+    "price": 559,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_safi_al_hoceima",
+    "price": 1483,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_safi_oujda",
+    "price": 1850,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_safi_ifrane",
+    "price": 1053,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_taza",
+    "price": 1200,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_meknes",
+    "price": 863,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "pullman_du_sud_marrakech_beni_mellal",
+    "price": 467,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "jana_viajes",
+  "name": "Jana Viajes",
+  "shortName": "JV",
+  "country": "Morocco",
+  "website": "https://www.janaviajes.ma",
+  "headquarters": "Marrakech",
+  "founded": 2005,
+  "transportType": "bus",
+  "description": "Bus and tour operator",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#8b1a4a",
+  "secondaryColor": "#f2c94c"
+}

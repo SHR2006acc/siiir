@@ -1,0 +1,15 @@
+{
+  "id": "iberia",
+  "name": "Iberia",
+  "shortName": "IB",
+  "country": "Spain",
+  "website": "https://www.iberia.com",
+  "headquarters": "Madrid",
+  "founded": 1927,
+  "transportType": "air",
+  "description": "Spanish flag carrier",
+  "alliance": "Oneworld",
+  "status": "active",
+  "primaryColor": "#c41230",
+  "secondaryColor": "#ffffff"
+}

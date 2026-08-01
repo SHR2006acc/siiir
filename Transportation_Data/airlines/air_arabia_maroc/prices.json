@@ -1,0 +1,44 @@
+[
+  {
+    "routeId": "air_arabia_maroc_ahm_eun",
+    "price": 1671,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_ouz",
+    "price": 1701,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_ouz",
+    "price": 2551,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_rba",
+    "price": 625,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_ndr",
+    "price": 1810,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "air_arabia_maroc_ahm_dak",
+    "price": 2368,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  }
+]

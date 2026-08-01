@@ -1,0 +1,17 @@
+[
+  {
+    "model": "Boeing 737-800",
+    "count": 10,
+    "seats": 189
+  },
+  {
+    "model": "Airbus A320neo",
+    "count": 4,
+    "seats": 180
+  },
+  {
+    "model": "Boeing 787-9",
+    "count": 0,
+    "seats": 290
+  }
+]

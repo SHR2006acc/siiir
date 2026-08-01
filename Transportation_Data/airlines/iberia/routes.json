@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "iberia_eun_tng",
+    "company": "iberia",
+    "transportType": "flight",
+    "origin": "eun",
+    "destination": "tng",
+    "distanceKm": 1177.7,
+    "estimatedDuration": 133,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "iberia_eun_ahm",
+    "company": "iberia",
+    "transportType": "flight",
+    "origin": "eun",
+    "destination": "ahm",
+    "distanceKm": 1261.1,
+    "estimatedDuration": 128,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "iberia_eun_fes",
+    "company": "iberia",
+    "transportType": "flight",
+    "origin": "eun",
+    "destination": "fes",
+    "distanceKm": 1090.3,
+    "estimatedDuration": 101,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "iberia_eun_dak",
+    "company": "iberia",
+    "transportType": "flight",
+    "origin": "eun",
+    "destination": "dak",
+    "distanceKm": 469.1,
+    "estimatedDuration": 56,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "iberia_eun_cmn",
+    "company": "iberia",
+    "transportType": "flight",
+    "origin": "eun",
+    "destination": "cmn",
+    "distanceKm": 877.1,
+    "estimatedDuration": 88,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

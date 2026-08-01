@@ -1,0 +1,114 @@
+[
+  {
+    "stationId": "tetouan_bus",
+    "name": "Gare Routi\u00e8re T\u00e9touan",
+    "city": "tetouan",
+    "type": "bus",
+    "latitude": 35.571476848085716,
+    "longitude": -5.381823458317501
+  },
+  {
+    "stationId": "ksar_el_kebir_bus",
+    "name": "Gare Routi\u00e8re Ksar El Kebir",
+    "city": "ksar_el_kebir",
+    "type": "bus",
+    "latitude": 34.99388097638554,
+    "longitude": -5.903278715214016
+  },
+  {
+    "stationId": "fes_bus",
+    "name": "Gare Routi\u00e8re F\u00e8s",
+    "city": "fes",
+    "type": "bus",
+    "latitude": 34.00812075794143,
+    "longitude": -5.011482852601967
+  },
+  {
+    "stationId": "marrakech_bus",
+    "name": "Gare Routi\u00e8re Marrakech",
+    "city": "marrakech",
+    "type": "bus",
+    "latitude": 31.634619693340458,
+    "longitude": -7.978916404440415
+  },
+  {
+    "stationId": "safi_bus",
+    "name": "Gare Routi\u00e8re Safi",
+    "city": "safi",
+    "type": "bus",
+    "latitude": 32.2978300256194,
+    "longitude": -9.242645097012566
+  },
+  {
+    "stationId": "meknes_bus",
+    "name": "Gare Routi\u00e8re Mekn\u00e8s",
+    "city": "meknes",
+    "type": "bus",
+    "latitude": 33.89617932609324,
+    "longitude": -5.554236268123346
+  },
+  {
+    "stationId": "tangier_bus",
+    "name": "Gare Routi\u00e8re Tangier",
+    "city": "tangier",
+    "type": "bus",
+    "latitude": 35.76842155642719,
+    "longitude": -5.824977189706016
+  },
+  {
+    "stationId": "casablanca_bus",
+    "name": "Gare Routi\u00e8re Casablanca",
+    "city": "casablanca",
+    "type": "bus",
+    "latitude": 33.582739182766865,
+    "longitude": -7.592462551645148
+  },
+  {
+    "stationId": "nador_bus",
+    "name": "Gare Routi\u00e8re Nador",
+    "city": "nador",
+    "type": "bus",
+    "latitude": 35.15969811224658,
+    "longitude": -2.9410485701944764
+  },
+  {
+    "stationId": "al_hoceima_bus",
+    "name": "Gare Routi\u00e8re Al Hoce\u00efma",
+    "city": "al_hoceima",
+    "type": "bus",
+    "latitude": 35.25399669496591,
+    "longitude": -3.9464966930073357
+  },
+  {
+    "stationId": "errachidia_bus",
+    "name": "Gare Routi\u00e8re Errachidia",
+    "city": "errachidia",
+    "type": "bus",
+    "latitude": 31.940756249636095,
+    "longitude": -4.407524409062474
+  },
+  {
+    "stationId": "el_jadida_bus",
+    "name": "Gare Routi\u00e8re El Jadida",
+    "city": "el_jadida",
+    "type": "bus",
+    "latitude": 33.25993414244792,
+    "longitude": -8.514556778585401
+  },
+  {
+    "stationId": "kenitra_bus",
+    "name": "Gare Routi\u00e8re K\u00e9nitra",
+    "city": "kenitra",
+    "type": "bus",
+    "latitude": 34.263770884966405,
+    "longitude": -6.574359011217742
+  },
+  {
+    "stationId": "taza_bus",
+    "name": "Gare Routi\u00e8re Taza",
+    "city": "taza",
+    "type": "bus",
+    "latitude": 34.21237585780533,
+    "longitude": -4.022992480124137
+  }
+]

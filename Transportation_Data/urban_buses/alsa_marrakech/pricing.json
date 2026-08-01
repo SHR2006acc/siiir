@@ -1,0 +1,37 @@
+[
+  {
+    "routeId": "alsa_marrakech_line_1",
+    "price": 5.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_marrakech_line_2",
+    "price": 3.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_marrakech_line_3",
+    "price": 4.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_marrakech_line_4",
+    "price": 5.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_marrakech_line_5",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  }
+]

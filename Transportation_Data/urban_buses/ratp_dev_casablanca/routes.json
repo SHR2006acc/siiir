@@ -1,0 +1,308 @@
+[
+  {
+    "routeId": "ratp_dev_casablanca_line_1",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line1_stop1",
+    "destination": "ratp_dev_casablanca_line1_stop8",
+    "distanceKm": 7.9,
+    "estimatedDuration": 35,
+    "numberOfStops": 6,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line1_stop1",
+        "name": "Stop 1-1",
+        "lat": 33.59382780592156,
+        "lng": -7.553451222802241
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop2",
+        "name": "Stop 1-2",
+        "lat": 33.52376109001418,
+        "lng": -7.595280084783695
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop3",
+        "name": "Stop 1-3",
+        "lat": 33.52810607270628,
+        "lng": -7.630437638806269
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop4",
+        "name": "Stop 1-4",
+        "lat": 33.62297866653936,
+        "lng": -7.591767475886919
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop5",
+        "name": "Stop 1-5",
+        "lat": 33.57486033437333,
+        "lng": -7.605519948550463
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop6",
+        "name": "Stop 1-6",
+        "lat": 33.62017936431876,
+        "lng": -7.581322129975458
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop7",
+        "name": "Stop 1-7",
+        "lat": 33.52681752520583,
+        "lng": -7.602427747532643
+      },
+      {
+        "id": "ratp_dev_casablanca_line1_stop8",
+        "name": "Stop 1-8",
+        "lat": 33.52851262218576,
+        "lng": -7.588243347356381
+      }
+    ]
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_2",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line2_stop1",
+    "destination": "ratp_dev_casablanca_line2_stop6",
+    "distanceKm": 4.7,
+    "estimatedDuration": 21,
+    "numberOfStops": 4,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line2_stop1",
+        "name": "Stop 2-1",
+        "lat": 33.574186506151435,
+        "lng": -7.6247531632281005
+      },
+      {
+        "id": "ratp_dev_casablanca_line2_stop2",
+        "name": "Stop 2-2",
+        "lat": 33.62256977352462,
+        "lng": -7.58393227750652
+      },
+      {
+        "id": "ratp_dev_casablanca_line2_stop3",
+        "name": "Stop 2-3",
+        "lat": 33.56292489525555,
+        "lng": -7.612069852901422
+      },
+      {
+        "id": "ratp_dev_casablanca_line2_stop4",
+        "name": "Stop 2-4",
+        "lat": 33.60240308980524,
+        "lng": -7.547054850354554
+      },
+      {
+        "id": "ratp_dev_casablanca_line2_stop5",
+        "name": "Stop 2-5",
+        "lat": 33.58252960627552,
+        "lng": -7.624499971807037
+      },
+      {
+        "id": "ratp_dev_casablanca_line2_stop6",
+        "name": "Stop 2-6",
+        "lat": 33.59397598525622,
+        "lng": -7.580315620274672
+      }
+    ]
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_3",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line3_stop1",
+    "destination": "ratp_dev_casablanca_line3_stop8",
+    "distanceKm": 6.1,
+    "estimatedDuration": 30,
+    "numberOfStops": 6,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line3_stop1",
+        "name": "Stop 3-1",
+        "lat": 33.57625824692335,
+        "lng": -7.575704944786143
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop2",
+        "name": "Stop 3-2",
+        "lat": 33.57785622386496,
+        "lng": -7.60878886277586
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop3",
+        "name": "Stop 3-3",
+        "lat": 33.59725911007985,
+        "lng": -7.596639385551076
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop4",
+        "name": "Stop 3-4",
+        "lat": 33.537105888374946,
+        "lng": -7.603312909706181
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop5",
+        "name": "Stop 3-5",
+        "lat": 33.57780454000629,
+        "lng": -7.616983062303007
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop6",
+        "name": "Stop 3-6",
+        "lat": 33.537199343923824,
+        "lng": -7.628966704693707
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop7",
+        "name": "Stop 3-7",
+        "lat": 33.52365328114709,
+        "lng": -7.5710759875289115
+      },
+      {
+        "id": "ratp_dev_casablanca_line3_stop8",
+        "name": "Stop 3-8",
+        "lat": 33.60791456954265,
+        "lng": -7.628950418255043
+      }
+    ]
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_4",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line4_stop1",
+    "destination": "ratp_dev_casablanca_line4_stop6",
+    "distanceKm": 1.9,
+    "estimatedDuration": 15,
+    "numberOfStops": 4,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line4_stop1",
+        "name": "Stop 4-1",
+        "lat": 33.616540529091765,
+        "lng": -7.623157541477991
+      },
+      {
+        "id": "ratp_dev_casablanca_line4_stop2",
+        "name": "Stop 4-2",
+        "lat": 33.53540300071673,
+        "lng": -7.620984634182843
+      },
+      {
+        "id": "ratp_dev_casablanca_line4_stop3",
+        "name": "Stop 4-3",
+        "lat": 33.56612109110674,
+        "lng": -7.578122521851037
+      },
+      {
+        "id": "ratp_dev_casablanca_line4_stop4",
+        "name": "Stop 4-4",
+        "lat": 33.580034539936,
+        "lng": -7.5529168513933325
+      },
+      {
+        "id": "ratp_dev_casablanca_line4_stop5",
+        "name": "Stop 4-5",
+        "lat": 33.61925971277334,
+        "lng": -7.583136412004168
+      },
+      {
+        "id": "ratp_dev_casablanca_line4_stop6",
+        "name": "Stop 4-6",
+        "lat": 33.59924337954644,
+        "lng": -7.62576399791254
+      }
+    ]
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_5",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line5_stop1",
+    "destination": "ratp_dev_casablanca_line5_stop6",
+    "distanceKm": 5.8,
+    "estimatedDuration": 28,
+    "numberOfStops": 4,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line5_stop1",
+        "name": "Stop 5-1",
+        "lat": 33.541466445976155,
+        "lng": -7.581803886549014
+      },
+      {
+        "id": "ratp_dev_casablanca_line5_stop2",
+        "name": "Stop 5-2",
+        "lat": 33.527426195462944,
+        "lng": -7.542807294945552
+      },
+      {
+        "id": "ratp_dev_casablanca_line5_stop3",
+        "name": "Stop 5-3",
+        "lat": 33.54294879521706,
+        "lng": -7.612321404749527
+      },
+      {
+        "id": "ratp_dev_casablanca_line5_stop4",
+        "name": "Stop 5-4",
+        "lat": 33.61008557691059,
+        "lng": -7.547276928775962
+      },
+      {
+        "id": "ratp_dev_casablanca_line5_stop5",
+        "name": "Stop 5-5",
+        "lat": 33.603956726029224,
+        "lng": -7.585526646262709
+      },
+      {
+        "id": "ratp_dev_casablanca_line5_stop6",
+        "name": "Stop 5-6",
+        "lat": 33.580694832602056,
+        "lng": -7.622320586822052
+      }
+    ]
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_6",
+    "company": "ratp_dev_casablanca",
+    "transportType": "urban_bus",
+    "origin": "ratp_dev_casablanca_line6_stop1",
+    "destination": "ratp_dev_casablanca_line6_stop4",
+    "distanceKm": 3.6,
+    "estimatedDuration": 24,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "ratp_dev_casablanca_line6_stop1",
+        "name": "Stop 6-1",
+        "lat": 33.57024425781334,
+        "lng": -7.592547363222905
+      },
+      {
+        "id": "ratp_dev_casablanca_line6_stop2",
+        "name": "Stop 6-2",
+        "lat": 33.527143835389616,
+        "lng": -7.5782973728358405
+      },
+      {
+        "id": "ratp_dev_casablanca_line6_stop3",
+        "name": "Stop 6-3",
+        "lat": 33.540018967414404,
+        "lng": -7.583371800998189
+      },
+      {
+        "id": "ratp_dev_casablanca_line6_stop4",
+        "name": "Stop 6-4",
+        "lat": 33.54614349768799,
+        "lng": -7.618933747774149
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "easyjet",
+  "name": "easyJet",
+  "shortName": "EZY",
+  "country": "UK",
+  "website": "https://www.easyjet.com",
+  "headquarters": "London",
+  "founded": 1995,
+  "transportType": "air",
+  "description": "British low-cost airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#ff6600",
+  "secondaryColor": "#ffffff"
+}

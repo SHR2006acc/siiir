@@ -1,0 +1,226 @@
+[
+  {
+    "cityId": "casablanca",
+    "name": "Casablanca",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 229,
+    "numGrand": 463
+  },
+  {
+    "cityId": "rabat",
+    "name": "Rabat",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1837,
+    "numGrand": 329
+  },
+  {
+    "cityId": "marrakech",
+    "name": "Marrakech",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1442,
+    "numGrand": 261
+  },
+  {
+    "cityId": "tangier",
+    "name": "Tangier",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 510,
+    "numGrand": 73
+  },
+  {
+    "cityId": "fes",
+    "name": "F\u00e8s",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1838,
+    "numGrand": 125
+  },
+  {
+    "cityId": "meknes",
+    "name": "Mekn\u00e8s",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1882,
+    "numGrand": 303
+  },
+  {
+    "cityId": "agadir",
+    "name": "Agadir",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 663,
+    "numGrand": 433
+  },
+  {
+    "cityId": "oujda",
+    "name": "Oujda",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 963,
+    "numGrand": 476
+  },
+  {
+    "cityId": "nador",
+    "name": "Nador",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1600,
+    "numGrand": 412
+  },
+  {
+    "cityId": "tetouan",
+    "name": "T\u00e9touan",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 242,
+    "numGrand": 473
+  },
+  {
+    "cityId": "chefchaouen",
+    "name": "Chefchaouen",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 527,
+    "numGrand": 91
+  },
+  {
+    "cityId": "essaouira",
+    "name": "Essaouira",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1268,
+    "numGrand": 101
+  },
+  {
+    "cityId": "el_jadida",
+    "name": "El Jadida",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 688,
+    "numGrand": 169
+  },
+  {
+    "cityId": "kenitra",
+    "name": "K\u00e9nitra",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1541,
+    "numGrand": 132
+  },
+  {
+    "cityId": "safi",
+    "name": "Safi",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 983,
+    "numGrand": 118
+  },
+  {
+    "cityId": "khouribga",
+    "name": "Khouribga",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 770,
+    "numGrand": 177
+  },
+  {
+    "cityId": "beni_mellal",
+    "name": "Beni Mellal",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1697,
+    "numGrand": 408
+  },
+  {
+    "cityId": "ifrane",
+    "name": "Ifrane",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1355,
+    "numGrand": 482
+  },
+  {
+    "cityId": "larache",
+    "name": "Larache",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1584,
+    "numGrand": 99
+  },
+  {
+    "cityId": "ksar_el_kebir",
+    "name": "Ksar El Kebir",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 687,
+    "numGrand": 89
+  },
+  {
+    "cityId": "al_hoceima",
+    "name": "Al Hoce\u00efma",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 625,
+    "numGrand": 150
+  },
+  {
+    "cityId": "taza",
+    "name": "Taza",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1009,
+    "numGrand": 425
+  },
+  {
+    "cityId": "dakhla",
+    "name": "Dakhla",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 535,
+    "numGrand": 80
+  },
+  {
+    "cityId": "laayoune",
+    "name": "La\u00e2youne",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1797,
+    "numGrand": 367
+  },
+  {
+    "cityId": "errachidia",
+    "name": "Errachidia",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1185,
+    "numGrand": 63
+  },
+  {
+    "cityId": "ouarzazate",
+    "name": "Ouarzazate",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 331,
+    "numGrand": 261
+  },
+  {
+    "cityId": "mohammedia",
+    "name": "Mohamm\u00e9dia",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 649,
+    "numGrand": 145
+  },
+  {
+    "cityId": "berkane",
+    "name": "Berkane",
+    "hasPetit": true,
+    "hasGrand": true,
+    "numPetit": 1278,
+    "numGrand": 290
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "airportId": "ndr",
+  "name": "Nador Al Aroui",
+  "city": "nador",
+  "region": "Oriental",
+  "IATA": "NDR",
+  "ICAO": "GMMW",
+  "latitude": 34.9888,
+  "longitude": -2.97,
+  "elevation": 192,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-ndr",
+  "description": "Nador Al Aroui serves Nador and surrounding areas."
+}

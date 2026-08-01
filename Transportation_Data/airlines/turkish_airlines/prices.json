@@ -1,0 +1,58 @@
+[
+  {
+    "routeId": "turkish_airlines_ahm_eun",
+    "price": 1105,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_eun",
+    "price": 1657,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_rak",
+    "price": 1247,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_oud",
+    "price": 1232,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_oud",
+    "price": 1848,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_ouz",
+    "price": 1531,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_rba",
+    "price": 1175,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "turkish_airlines_ahm_rba",
+    "price": 1762,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

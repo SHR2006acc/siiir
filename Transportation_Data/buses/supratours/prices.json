@@ -1,0 +1,107 @@
+[
+  {
+    "routeId": "supratours_tetouan_ksar_el_kebir",
+    "price": 241,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_tetouan_fes",
+    "price": 487,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_tetouan_marrakech",
+    "price": 1289,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_safi",
+    "price": 1111,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_meknes",
+    "price": 339,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_ksar_el_kebir_tangier",
+    "price": 241,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_safi_marrakech",
+    "price": 384,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_safi_casablanca",
+    "price": 532,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_safi_nador",
+    "price": 1676,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_al_hoceima_errachidia",
+    "price": 969,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_al_hoceima_el_jadida",
+    "price": 1210,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_al_hoceima_casablanca",
+    "price": 984,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_kenitra_ksar_el_kebir",
+    "price": 289,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_kenitra_casablanca",
+    "price": 319,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "supratours_kenitra_taza",
+    "price": 599,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Standard fare"
+  }
+]

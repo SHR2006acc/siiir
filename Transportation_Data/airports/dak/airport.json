@@ -1,0 +1,16 @@
+{
+  "airportId": "dak",
+  "name": "Dakhla",
+  "city": "dakhla",
+  "region": "Dakhla-Oued Ed-Dahab",
+  "IATA": "DKK",
+  "ICAO": "GMMH",
+  "latitude": 23.7166,
+  "longitude": -15.932,
+  "elevation": 10,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-dak",
+  "description": "Dakhla serves Dakhla and surrounding areas."
+}

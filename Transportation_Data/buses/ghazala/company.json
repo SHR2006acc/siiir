@@ -1,0 +1,15 @@
+{
+  "id": "ghazala",
+  "name": "Ghazala",
+  "shortName": "GHZ",
+  "country": "Morocco",
+  "website": "https://www.ghazala.ma",
+  "headquarters": "Casablanca",
+  "founded": 1985,
+  "transportType": "bus",
+  "description": "Bus operator",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#00a3e0",
+  "secondaryColor": "#ffffff"
+}

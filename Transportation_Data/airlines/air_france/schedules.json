@@ -1,0 +1,142 @@
+[
+  {
+    "departureTime": "16:36",
+    "arrivalTime": "17:33",
+    "duration": 57,
+    "availableSeats": 169,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "12:23",
+    "arrivalTime": "13:20",
+    "duration": 57,
+    "availableSeats": 28,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "06:15",
+    "arrivalTime": "07:12",
+    "duration": 57,
+    "availableSeats": 96,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "22:00",
+    "arrivalTime": "22:57",
+    "duration": 57,
+    "availableSeats": 97,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "16:30",
+    "arrivalTime": "18:31",
+    "duration": 121,
+    "availableSeats": 77,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "18:40",
+    "arrivalTime": "20:41",
+    "duration": 121,
+    "availableSeats": 17,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "08:07",
+    "arrivalTime": "10:08",
+    "duration": 121,
+    "availableSeats": 182,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "20:59",
+    "arrivalTime": "23:00",
+    "duration": 121,
+    "availableSeats": 48,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "22:47",
+    "arrivalTime": "23:36",
+    "duration": 49,
+    "availableSeats": 174,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "10:59",
+    "arrivalTime": "11:48",
+    "duration": 49,
+    "availableSeats": 16,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "08:01",
+    "arrivalTime": "08:50",
+    "duration": 49,
+    "availableSeats": 92,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "12:19",
+    "arrivalTime": "13:08",
+    "duration": 49,
+    "availableSeats": 64,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "18:19",
+    "arrivalTime": "20:50",
+    "duration": 151,
+    "availableSeats": 19,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "12:51",
+    "arrivalTime": "15:22",
+    "duration": 151,
+    "availableSeats": 193,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "14:33",
+    "arrivalTime": "17:04",
+    "duration": 151,
+    "availableSeats": 72,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "10:05",
+    "arrivalTime": "12:36",
+    "duration": 151,
+    "availableSeats": 120,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "22:56",
+    "arrivalTime": "23:41",
+    "duration": 45,
+    "availableSeats": 18,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "18:59",
+    "arrivalTime": "19:44",
+    "duration": 45,
+    "availableSeats": 17,
+    "status": "cancelled"
+  },
+  {
+    "departureTime": "14:36",
+    "arrivalTime": "15:21",
+    "duration": 45,
+    "availableSeats": 60,
+    "status": "scheduled"
+  },
+  {
+    "departureTime": "20:01",
+    "arrivalTime": "20:46",
+    "duration": 45,
+    "availableSeats": 81,
+    "status": "scheduled"
+  }
+]

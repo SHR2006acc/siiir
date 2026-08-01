@@ -1,0 +1,142 @@
+[
+  {
+    "id": "rab_tram_1",
+    "name": "Station 1",
+    "city": "rabat",
+    "lat": 34.03,
+    "lng": -6.83
+  },
+  {
+    "id": "rab_tram_2",
+    "name": "Station 2",
+    "city": "rabat",
+    "lat": 34.040000000000006,
+    "lng": -6.82
+  },
+  {
+    "id": "rab_tram_3",
+    "name": "Station 3",
+    "city": "rabat",
+    "lat": 34.050000000000004,
+    "lng": -6.81
+  },
+  {
+    "id": "rab_tram_4",
+    "name": "Station 4",
+    "city": "rabat",
+    "lat": 34.06,
+    "lng": -6.8
+  },
+  {
+    "id": "rab_tram_5",
+    "name": "Station 5",
+    "city": "rabat",
+    "lat": 34.07,
+    "lng": -6.79
+  },
+  {
+    "id": "rab_tram_6",
+    "name": "Station 6",
+    "city": "rabat",
+    "lat": 34.080000000000005,
+    "lng": -6.78
+  },
+  {
+    "id": "rab_tram_7",
+    "name": "Station 7",
+    "city": "rabat",
+    "lat": 34.09,
+    "lng": -6.77
+  },
+  {
+    "id": "rab_tram_8",
+    "name": "Station 8",
+    "city": "rabat",
+    "lat": 34.1,
+    "lng": -6.76
+  },
+  {
+    "id": "rab_tram_9",
+    "name": "Station 9",
+    "city": "rabat",
+    "lat": 34.11000000000001,
+    "lng": -6.75
+  },
+  {
+    "id": "rab_tram_10",
+    "name": "Station 10",
+    "city": "rabat",
+    "lat": 34.120000000000005,
+    "lng": -6.74
+  },
+  {
+    "id": "rab_tram_11",
+    "name": "Station 11",
+    "city": "rabat",
+    "lat": 34.13,
+    "lng": -6.7299999999999995
+  },
+  {
+    "id": "rab_tram_12",
+    "name": "Station 12",
+    "city": "rabat",
+    "lat": 34.14,
+    "lng": -6.72
+  },
+  {
+    "id": "rab_tram_13",
+    "name": "Station 13",
+    "city": "rabat",
+    "lat": 34.150000000000006,
+    "lng": -6.71
+  },
+  {
+    "id": "rab_tram_14",
+    "name": "Station 14",
+    "city": "rabat",
+    "lat": 34.160000000000004,
+    "lng": -6.7
+  },
+  {
+    "id": "rab_tram_15",
+    "name": "Station 15",
+    "city": "rabat",
+    "lat": 34.17,
+    "lng": -6.6899999999999995
+  },
+  {
+    "id": "rab_tram_16",
+    "name": "Station 16",
+    "city": "rabat",
+    "lat": 34.18,
+    "lng": -6.68
+  },
+  {
+    "id": "rab_tram_17",
+    "name": "Station 17",
+    "city": "rabat",
+    "lat": 34.190000000000005,
+    "lng": -6.67
+  },
+  {
+    "id": "rab_tram_18",
+    "name": "Station 18",
+    "city": "rabat",
+    "lat": 34.2,
+    "lng": -6.66
+  },
+  {
+    "id": "rab_tram_19",
+    "name": "Station 19",
+    "city": "rabat",
+    "lat": 34.21,
+    "lng": -6.6499999999999995
+  },
+  {
+    "id": "rab_tram_20",
+    "name": "Station 20",
+    "city": "rabat",
+    "lat": 34.220000000000006,
+    "lng": -6.64
+  }
+]

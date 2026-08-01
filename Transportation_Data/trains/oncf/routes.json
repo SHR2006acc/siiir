@@ -1,0 +1,200 @@
+[
+  {
+    "routeId": "oncf_casa_voyageurs_rabat_agdal",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_voyageurs",
+    "destination": "rabat_agdal",
+    "distanceKm": 81.7,
+    "estimatedDuration": 132,
+    "numberOfStops": 5,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_voyageurs_marrakech",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_voyageurs",
+    "destination": "marrakech",
+    "distanceKm": 221.2,
+    "estimatedDuration": 279,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_voyageurs_meknes",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_voyageurs",
+    "destination": "meknes",
+    "distanceKm": 191.6,
+    "estimatedDuration": 202,
+    "numberOfStops": 4,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_port_rabat_agdal",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_port",
+    "destination": "rabat_agdal",
+    "distanceKm": 80.8,
+    "estimatedDuration": 129,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_port_kenitra",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_port",
+    "destination": "kenitra",
+    "distanceKm": 118.2,
+    "estimatedDuration": 135,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_port_tangier_ville",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_port",
+    "destination": "tangier_ville",
+    "distanceKm": 291.2,
+    "estimatedDuration": 337,
+    "numberOfStops": 4,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_casa_port_oujda",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "casa_port",
+    "destination": "oujda",
+    "distanceKm": 536.2,
+    "estimatedDuration": 564,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_rabat_ville_kenitra",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "rabat_ville",
+    "destination": "kenitra",
+    "distanceKm": 35.6,
+    "estimatedDuration": 78,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_rabat_ville_marrakech",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "rabat_ville",
+    "destination": "marrakech",
+    "distanceKm": 286.5,
+    "estimatedDuration": 300,
+    "numberOfStops": 5,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_rabat_agdal_kenitra",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "rabat_agdal",
+    "destination": "kenitra",
+    "distanceKm": 38.3,
+    "estimatedDuration": 58,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_rabat_agdal_oujda",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "rabat_agdal",
+    "destination": "oujda",
+    "distanceKm": 460.6,
+    "estimatedDuration": 488,
+    "numberOfStops": 5,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_kenitra_marrakech",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "kenitra",
+    "destination": "marrakech",
+    "distanceKm": 320.4,
+    "estimatedDuration": 374,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_marrakech_fes",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "marrakech",
+    "destination": "fes",
+    "distanceKm": 385.6,
+    "estimatedDuration": 423,
+    "numberOfStops": 5,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_marrakech_oujda",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "marrakech",
+    "destination": "oujda",
+    "distanceKm": 658.9,
+    "estimatedDuration": 670,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_fes_oujda",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "fes",
+    "destination": "oujda",
+    "distanceKm": 292.8,
+    "estimatedDuration": 326,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_al_boraq_tangier_ville_kenitra",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "tangier_ville",
+    "destination": "kenitra",
+    "distanceKm": 200,
+    "estimatedDuration": 75,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_al_boraq_kenitra_rabat_ville",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "kenitra",
+    "destination": "rabat_ville",
+    "distanceKm": 60,
+    "estimatedDuration": 25,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "oncf_al_boraq_rabat_ville_casa_voyageurs",
+    "company": "oncf",
+    "transportType": "train",
+    "origin": "rabat_ville",
+    "destination": "casa_voyageurs",
+    "distanceKm": 90,
+    "estimatedDuration": 35,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

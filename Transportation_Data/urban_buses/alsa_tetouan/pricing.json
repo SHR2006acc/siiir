@@ -1,0 +1,23 @@
+[
+  {
+    "routeId": "alsa_tetouan_line_1",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_tetouan_line_2",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "alsa_tetouan_line_3",
+    "price": 4.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  }
+]

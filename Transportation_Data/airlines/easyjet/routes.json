@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "easyjet_oud_ndr",
+    "company": "easyjet",
+    "transportType": "flight",
+    "origin": "oud",
+    "destination": "ndr",
+    "distanceKm": 98.4,
+    "estimatedDuration": 39,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "easyjet_oud_erh",
+    "company": "easyjet",
+    "transportType": "flight",
+    "origin": "oud",
+    "destination": "erh",
+    "distanceKm": 390.7,
+    "estimatedDuration": 58,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "easyjet_oud_aga",
+    "company": "easyjet",
+    "transportType": "flight",
+    "origin": "oud",
+    "destination": "aga",
+    "distanceKm": 859.5,
+    "estimatedDuration": 81,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "easyjet_oud_ouz",
+    "company": "easyjet",
+    "transportType": "flight",
+    "origin": "oud",
+    "destination": "ouz",
+    "distanceKm": 632.5,
+    "estimatedDuration": 68,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "easyjet_oud_rba",
+    "company": "easyjet",
+    "transportType": "flight",
+    "origin": "oud",
+    "destination": "rba",
+    "distanceKm": 450.7,
+    "estimatedDuration": 66,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

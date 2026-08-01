@@ -1,0 +1,258 @@
+[
+  {
+    "stationId": "ville_bus_oujda_line1_stop1",
+    "name": "Stop 1-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.73122102985229,
+    "longitude": -1.894075804314285
+  },
+  {
+    "stationId": "ville_bus_oujda_line1_stop2",
+    "name": "Stop 1-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.685928539351245,
+    "longitude": -1.8976348039336577
+  },
+  {
+    "stationId": "ville_bus_oujda_line1_stop3",
+    "name": "Stop 1-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.66099601177679,
+    "longitude": -1.8873445278199084
+  },
+  {
+    "stationId": "ville_bus_oujda_line1_stop4",
+    "name": "Stop 1-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.66186264526644,
+    "longitude": -1.9399620844165044
+  },
+  {
+    "stationId": "ville_bus_oujda_line1_stop5",
+    "name": "Stop 1-5",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.73131044043166,
+    "longitude": -1.910162941264911
+  },
+  {
+    "stationId": "ville_bus_oujda_line2_stop1",
+    "name": "Stop 2-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.63167182858789,
+    "longitude": -1.891876482148528
+  },
+  {
+    "stationId": "ville_bus_oujda_line2_stop2",
+    "name": "Stop 2-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.65234205766577,
+    "longitude": -1.9451638644343014
+  },
+  {
+    "stationId": "ville_bus_oujda_line2_stop3",
+    "name": "Stop 2-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.68892349338821,
+    "longitude": -1.875913036895161
+  },
+  {
+    "stationId": "ville_bus_oujda_line2_stop4",
+    "name": "Stop 2-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.729656116601774,
+    "longitude": -1.8731319099883792
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop1",
+    "name": "Stop 3-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.65803042498776,
+    "longitude": -1.9544063756476013
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop2",
+    "name": "Stop 3-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.71546039078692,
+    "longitude": -1.9449158583311514
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop3",
+    "name": "Stop 3-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.70878632831298,
+    "longitude": -1.9538664303458981
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop4",
+    "name": "Stop 3-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.71523716335407,
+    "longitude": -1.9570117405573053
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop5",
+    "name": "Stop 3-5",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.66839423146631,
+    "longitude": -1.9050664064838123
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop6",
+    "name": "Stop 3-6",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.707900857469085,
+    "longitude": -1.8651177090583526
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop7",
+    "name": "Stop 3-7",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.708034259462394,
+    "longitude": -1.8665481731945153
+  },
+  {
+    "stationId": "ville_bus_oujda_line3_stop8",
+    "name": "Stop 3-8",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.66106422832213,
+    "longitude": -1.9149864620183414
+  },
+  {
+    "stationId": "ville_bus_oujda_line4_stop1",
+    "name": "Stop 4-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.70867482627641,
+    "longitude": -1.8988980631114472
+  },
+  {
+    "stationId": "ville_bus_oujda_line4_stop2",
+    "name": "Stop 4-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.66992522437296,
+    "longitude": -1.8874101476261707
+  },
+  {
+    "stationId": "ville_bus_oujda_line4_stop3",
+    "name": "Stop 4-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.656841950018084,
+    "longitude": -1.9584106965434323
+  },
+  {
+    "stationId": "ville_bus_oujda_line4_stop4",
+    "name": "Stop 4-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.711997935910105,
+    "longitude": -1.8855838384432888
+  },
+  {
+    "stationId": "ville_bus_oujda_line4_stop5",
+    "name": "Stop 4-5",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.69375660985082,
+    "longitude": -1.9074303035095754
+  },
+  {
+    "stationId": "ville_bus_oujda_line5_stop1",
+    "name": "Stop 5-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.69442228857156,
+    "longitude": -1.8701317003833495
+  },
+  {
+    "stationId": "ville_bus_oujda_line5_stop2",
+    "name": "Stop 5-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.67285635106421,
+    "longitude": -1.9252869145477534
+  },
+  {
+    "stationId": "ville_bus_oujda_line5_stop3",
+    "name": "Stop 5-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.69263073240734,
+    "longitude": -1.9434201064637202
+  },
+  {
+    "stationId": "ville_bus_oujda_line5_stop4",
+    "name": "Stop 5-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.67978840343365,
+    "longitude": -1.9186867678643926
+  },
+  {
+    "stationId": "ville_bus_oujda_line5_stop5",
+    "name": "Stop 5-5",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.64944411079826,
+    "longitude": -1.9280765900999663
+  },
+  {
+    "stationId": "ville_bus_oujda_line6_stop1",
+    "name": "Stop 6-1",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.666024267641326,
+    "longitude": -1.9248451287319241
+  },
+  {
+    "stationId": "ville_bus_oujda_line6_stop2",
+    "name": "Stop 6-2",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.658386776865854,
+    "longitude": -1.9363100566995868
+  },
+  {
+    "stationId": "ville_bus_oujda_line6_stop3",
+    "name": "Stop 6-3",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.68645166848077,
+    "longitude": -1.9554194051081226
+  },
+  {
+    "stationId": "ville_bus_oujda_line6_stop4",
+    "name": "Stop 6-4",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.70821188516359,
+    "longitude": -1.8707508172802598
+  },
+  {
+    "stationId": "ville_bus_oujda_line6_stop5",
+    "name": "Stop 6-5",
+    "city": "oujda",
+    "type": "urban_bus_stop",
+    "latitude": 34.72920188484513,
+    "longitude": -1.9219520925876976
+  }
+]

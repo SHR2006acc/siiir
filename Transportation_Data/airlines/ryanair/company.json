@@ -1,0 +1,15 @@
+{
+  "id": "ryanair",
+  "name": "Ryanair",
+  "shortName": "RYR",
+  "country": "Ireland",
+  "website": "https://www.ryanair.com",
+  "headquarters": "Dublin",
+  "founded": 1984,
+  "transportType": "air",
+  "description": "Irish low-cost airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#073590",
+  "secondaryColor": "#ffcc00"
+}

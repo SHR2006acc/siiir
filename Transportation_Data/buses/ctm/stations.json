@@ -1,0 +1,122 @@
+[
+  {
+    "stationId": "berkane_bus",
+    "name": "Gare Routi\u00e8re Berkane",
+    "city": "berkane",
+    "type": "bus",
+    "latitude": 34.9197699384009,
+    "longitude": -2.3263241452407266
+  },
+  {
+    "stationId": "ksar_el_kebir_bus",
+    "name": "Gare Routi\u00e8re Ksar El Kebir",
+    "city": "ksar_el_kebir",
+    "type": "bus",
+    "latitude": 34.996692336079015,
+    "longitude": -5.907951493173112
+  },
+  {
+    "stationId": "chefchaouen_bus",
+    "name": "Gare Routi\u00e8re Chefchaouen",
+    "city": "chefchaouen",
+    "type": "bus",
+    "latitude": 35.175108706720245,
+    "longitude": -5.265134545289589
+  },
+  {
+    "stationId": "ifrane_bus",
+    "name": "Gare Routi\u00e8re Ifrane",
+    "city": "ifrane",
+    "type": "bus",
+    "latitude": 33.53485005491377,
+    "longitude": -5.111690091428733
+  },
+  {
+    "stationId": "casablanca_bus",
+    "name": "Gare Routi\u00e8re Casablanca",
+    "city": "casablanca",
+    "type": "bus",
+    "latitude": 33.57256998234591,
+    "longitude": -7.599421507156478
+  },
+  {
+    "stationId": "agadir_bus",
+    "name": "Gare Routi\u00e8re Agadir",
+    "city": "agadir",
+    "type": "bus",
+    "latitude": 30.434345482655996,
+    "longitude": -9.60354317592726
+  },
+  {
+    "stationId": "taza_bus",
+    "name": "Gare Routi\u00e8re Taza",
+    "city": "taza",
+    "type": "bus",
+    "latitude": 34.219817377500135,
+    "longitude": -4.02276834514085
+  },
+  {
+    "stationId": "el_jadida_bus",
+    "name": "Gare Routi\u00e8re El Jadida",
+    "city": "el_jadida",
+    "type": "bus",
+    "latitude": 33.2609113938498,
+    "longitude": -8.505515715583368
+  },
+  {
+    "stationId": "errachidia_bus",
+    "name": "Gare Routi\u00e8re Errachidia",
+    "city": "errachidia",
+    "type": "bus",
+    "latitude": 31.9345380169237,
+    "longitude": -4.413195862165444
+  },
+  {
+    "stationId": "tetouan_bus",
+    "name": "Gare Routi\u00e8re T\u00e9touan",
+    "city": "tetouan",
+    "type": "bus",
+    "latitude": 35.570183206356965,
+    "longitude": -5.382761407045149
+  },
+  {
+    "stationId": "al_hoceima_bus",
+    "name": "Gare Routi\u00e8re Al Hoce\u00efma",
+    "city": "al_hoceima",
+    "type": "bus",
+    "latitude": 35.252314602889676,
+    "longitude": -3.946824786852956
+  },
+  {
+    "stationId": "marrakech_bus",
+    "name": "Gare Routi\u00e8re Marrakech",
+    "city": "marrakech",
+    "type": "bus",
+    "latitude": 31.630134633177846,
+    "longitude": -7.9720369695259965
+  },
+  {
+    "stationId": "fes_bus",
+    "name": "Gare Routi\u00e8re F\u00e8s",
+    "city": "fes",
+    "type": "bus",
+    "latitude": 34.02262292468081,
+    "longitude": -4.999652627202017
+  },
+  {
+    "stationId": "rabat_bus",
+    "name": "Gare Routi\u00e8re Rabat",
+    "city": "rabat",
+    "type": "bus",
+    "latitude": 34.0209587378465,
+    "longitude": -6.838544065071211
+  },
+  {
+    "stationId": "oujda_bus",
+    "name": "Gare Routi\u00e8re Oujda",
+    "city": "oujda",
+    "type": "bus",
+    "latitude": 34.68998837257034,
+    "longitude": -1.9090959379513661
+  }
+]

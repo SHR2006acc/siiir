@@ -1,0 +1,44 @@
+[
+  {
+    "routeId": "ratp_dev_casablanca_line_1",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_2",
+    "price": 4.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_3",
+    "price": 5.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_4",
+    "price": 4.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_5",
+    "price": 4.0,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  },
+  {
+    "routeId": "ratp_dev_casablanca_line_6",
+    "price": 4.5,
+    "currency": "MAD",
+    "cabinClass": "Standard",
+    "notes": "Urban bus single ticket"
+  }
+]

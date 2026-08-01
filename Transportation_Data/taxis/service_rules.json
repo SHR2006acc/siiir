@@ -1,0 +1,27 @@
+{
+  "petitTaxi": {
+    "type": "Petit Taxi (Red)",
+    "color": "red",
+    "area": "Intra\u2011city only \u2013 strictly within municipal boundaries.",
+    "meter": true,
+    "maxPassengers": 3,
+    "luggage": "Limited to small suitcases.",
+    "airportSurcharge": "Some cities allow a fixed airport supplement (e.g., +5\u201310 MAD).",
+    "nightSurcharge": "+50% between 20:00 and 06:00.",
+    "regulatoryBody": "Local municipalities."
+  },
+  "grandTaxi": {
+    "type": "Grand Taxi (White)",
+    "color": "white",
+    "area": "Intercity, suburban, and airport routes.",
+    "meter": false,
+    "shared": true,
+    "maxPassengers": 6,
+    "departure": "Departs when full (or after a short wait).",
+    "perSeatPricing": true,
+    "fixedRoutes": true,
+    "privateHire": "Can be hired for exclusive use at negotiated rates.",
+    "airportFixedFare": "Official fixed tariffs for common routes to/from airports.",
+    "regulatoryBody": "National and regional authorities."
+  }
+}

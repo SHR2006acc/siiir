@@ -1,0 +1,15 @@
+{
+  "id": "alsa_marrakech",
+  "name": "ALSA Marrakech",
+  "shortName": "ALSA MK",
+  "country": "Morocco",
+  "website": "https://www.alsa.ma",
+  "headquarters": "Marrakech",
+  "founded": 2014,
+  "transportType": "urban_bus",
+  "description": "Urban bus operator in Marrakech",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#e31e24",
+  "secondaryColor": "#ffffff"
+}

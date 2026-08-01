@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "transavia_erh_rba",
+    "company": "transavia",
+    "transportType": "flight",
+    "origin": "erh",
+    "destination": "rba",
+    "distanceKm": 320.8,
+    "estimatedDuration": 55,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "transavia_erh_rak",
+    "company": "transavia",
+    "transportType": "flight",
+    "origin": "erh",
+    "destination": "rak",
+    "distanceKm": 346.0,
+    "estimatedDuration": 56,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "transavia_erh_tng",
+    "company": "transavia",
+    "transportType": "flight",
+    "origin": "erh",
+    "destination": "tng",
+    "distanceKm": 443.0,
+    "estimatedDuration": 52,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "transavia_erh_eun",
+    "company": "transavia",
+    "transportType": "flight",
+    "origin": "erh",
+    "destination": "eun",
+    "distanceKm": 1005.6,
+    "estimatedDuration": 99,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "transavia_erh_cmn",
+    "company": "transavia",
+    "transportType": "flight",
+    "origin": "erh",
+    "destination": "cmn",
+    "distanceKm": 337.9,
+    "estimatedDuration": 59,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

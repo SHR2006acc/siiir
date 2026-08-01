@@ -1,0 +1,51 @@
+[
+  {
+    "routeId": "lufthansa_ahm_tng",
+    "price": 1035,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_fes",
+    "price": 2248,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_fes",
+    "price": 3372,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_rba",
+    "price": 541,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_ouz",
+    "price": 2202,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_rak",
+    "price": 1666,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "lufthansa_ahm_rak",
+    "price": 2499,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  }
+]

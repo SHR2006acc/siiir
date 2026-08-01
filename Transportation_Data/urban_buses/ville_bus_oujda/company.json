@@ -1,0 +1,15 @@
+{
+  "id": "ville_bus_oujda",
+  "name": "Ville Bus Oujda",
+  "shortName": "VBO",
+  "country": "Morocco",
+  "website": "",
+  "headquarters": "Oujda",
+  "founded": 2011,
+  "transportType": "urban_bus",
+  "description": "Urban bus operator in Oujda",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#d4af37",
+  "secondaryColor": "#000000"
+}

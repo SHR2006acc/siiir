@@ -1,0 +1,16 @@
+{
+  "airportId": "erh",
+  "name": "Errachidia",
+  "city": "errachidia",
+  "region": "Dr\u00e2a-Tafilalet",
+  "IATA": "ERH",
+  "ICAO": "GMFK",
+  "latitude": 31.9475,
+  "longitude": -4.3983,
+  "elevation": 1032,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-erh",
+  "description": "Errachidia serves Errachidia and surrounding areas."
+}

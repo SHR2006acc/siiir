@@ -1,0 +1,229 @@
+[
+  {
+    "routeId": "alsa_agadir_line_1",
+    "company": "alsa_agadir",
+    "transportType": "urban_bus",
+    "origin": "alsa_agadir_line1_stop1",
+    "destination": "alsa_agadir_line1_stop4",
+    "distanceKm": 5.6,
+    "estimatedDuration": 31,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_agadir_line1_stop1",
+        "name": "Stop 1-1",
+        "lat": 30.378228480855405,
+        "lng": -9.595836896051969
+      },
+      {
+        "id": "alsa_agadir_line1_stop2",
+        "name": "Stop 1-2",
+        "lat": 30.450516334024503,
+        "lng": -9.597177566219724
+      },
+      {
+        "id": "alsa_agadir_line1_stop3",
+        "name": "Stop 1-3",
+        "lat": 30.396794919569828,
+        "lng": -9.595167347440425
+      },
+      {
+        "id": "alsa_agadir_line1_stop4",
+        "name": "Stop 1-4",
+        "lat": 30.408774605525032,
+        "lng": -9.642670645645726
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_agadir_line_2",
+    "company": "alsa_agadir",
+    "transportType": "urban_bus",
+    "origin": "alsa_agadir_line2_stop1",
+    "destination": "alsa_agadir_line2_stop4",
+    "distanceKm": 5.6,
+    "estimatedDuration": 28,
+    "numberOfStops": 2,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_agadir_line2_stop1",
+        "name": "Stop 2-1",
+        "lat": 30.428654494114475,
+        "lng": -9.548218009949878
+      },
+      {
+        "id": "alsa_agadir_line2_stop2",
+        "name": "Stop 2-2",
+        "lat": 30.45572808225185,
+        "lng": -9.576347778116627
+      },
+      {
+        "id": "alsa_agadir_line2_stop3",
+        "name": "Stop 2-3",
+        "lat": 30.41494996482239,
+        "lng": -9.596596405263194
+      },
+      {
+        "id": "alsa_agadir_line2_stop4",
+        "name": "Stop 2-4",
+        "lat": 30.38104520278788,
+        "lng": -9.567367655440593
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_agadir_line_3",
+    "company": "alsa_agadir",
+    "transportType": "urban_bus",
+    "origin": "alsa_agadir_line3_stop1",
+    "destination": "alsa_agadir_line3_stop5",
+    "distanceKm": 2.0,
+    "estimatedDuration": 11,
+    "numberOfStops": 3,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_agadir_line3_stop1",
+        "name": "Stop 3-1",
+        "lat": 30.47152814619781,
+        "lng": -9.590107171176584
+      },
+      {
+        "id": "alsa_agadir_line3_stop2",
+        "name": "Stop 3-2",
+        "lat": 30.44344538549741,
+        "lng": -9.64576649739458
+      },
+      {
+        "id": "alsa_agadir_line3_stop3",
+        "name": "Stop 3-3",
+        "lat": 30.42891318346309,
+        "lng": -9.63985793469664
+      },
+      {
+        "id": "alsa_agadir_line3_stop4",
+        "name": "Stop 3-4",
+        "lat": 30.454326167601227,
+        "lng": -9.54966845099191
+      },
+      {
+        "id": "alsa_agadir_line3_stop5",
+        "name": "Stop 3-5",
+        "lat": 30.45497163519285,
+        "lng": -9.58222233285216
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_agadir_line_4",
+    "company": "alsa_agadir",
+    "transportType": "urban_bus",
+    "origin": "alsa_agadir_line4_stop1",
+    "destination": "alsa_agadir_line4_stop7",
+    "distanceKm": 5.3,
+    "estimatedDuration": 27,
+    "numberOfStops": 5,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_agadir_line4_stop1",
+        "name": "Stop 4-1",
+        "lat": 30.43506794550041,
+        "lng": -9.561114617266478
+      },
+      {
+        "id": "alsa_agadir_line4_stop2",
+        "name": "Stop 4-2",
+        "lat": 30.407550538067188,
+        "lng": -9.614313293118599
+      },
+      {
+        "id": "alsa_agadir_line4_stop3",
+        "name": "Stop 4-3",
+        "lat": 30.437969408085156,
+        "lng": -9.590754657172448
+      },
+      {
+        "id": "alsa_agadir_line4_stop4",
+        "name": "Stop 4-4",
+        "lat": 30.383906396683685,
+        "lng": -9.548748278168608
+      },
+      {
+        "id": "alsa_agadir_line4_stop5",
+        "name": "Stop 4-5",
+        "lat": 30.424716753460586,
+        "lng": -9.626204191681273
+      },
+      {
+        "id": "alsa_agadir_line4_stop6",
+        "name": "Stop 4-6",
+        "lat": 30.44913899027409,
+        "lng": -9.563132864148445
+      },
+      {
+        "id": "alsa_agadir_line4_stop7",
+        "name": "Stop 4-7",
+        "lat": 30.387542368114435,
+        "lng": -9.567210926061332
+      }
+    ]
+  },
+  {
+    "routeId": "alsa_agadir_line_5",
+    "company": "alsa_agadir",
+    "transportType": "urban_bus",
+    "origin": "alsa_agadir_line5_stop1",
+    "destination": "alsa_agadir_line5_stop7",
+    "distanceKm": 5.7,
+    "estimatedDuration": 27,
+    "numberOfStops": 5,
+    "direct": true,
+    "stops": [
+      {
+        "id": "alsa_agadir_line5_stop1",
+        "name": "Stop 5-1",
+        "lat": 30.407104434800726,
+        "lng": -9.631358095114932
+      },
+      {
+        "id": "alsa_agadir_line5_stop2",
+        "name": "Stop 5-2",
+        "lat": 30.451092718473937,
+        "lng": -9.646922789325325
+      },
+      {
+        "id": "alsa_agadir_line5_stop3",
+        "name": "Stop 5-3",
+        "lat": 30.40615332849236,
+        "lng": -9.637648864830016
+      },
+      {
+        "id": "alsa_agadir_line5_stop4",
+        "name": "Stop 5-4",
+        "lat": 30.4737770842631,
+        "lng": -9.550415921944506
+      },
+      {
+        "id": "alsa_agadir_line5_stop5",
+        "name": "Stop 5-5",
+        "lat": 30.427508374123338,
+        "lng": -9.603558948632658
+      },
+      {
+        "id": "alsa_agadir_line5_stop6",
+        "name": "Stop 5-6",
+        "lat": 30.41950076317755,
+        "lng": -9.581507841925369
+      },
+      {
+        "id": "alsa_agadir_line5_stop7",
+        "name": "Stop 5-7",
+        "lat": 30.40235420605321,
+        "lng": -9.57174786971177
+      }
+    ]
+  }
+]

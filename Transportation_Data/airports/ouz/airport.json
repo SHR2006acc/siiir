@@ -1,0 +1,16 @@
+{
+  "airportId": "ouz",
+  "name": "Ouarzazate",
+  "city": "ouarzazate",
+  "region": "Dr\u00e2a-Tafilalet",
+  "IATA": "OZZ",
+  "ICAO": "GMMZ",
+  "latitude": 30.9394,
+  "longitude": -6.9096,
+  "elevation": 1152,
+  "runwayCount": 1,
+  "terminalCount": 1,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-ouz",
+  "description": "Ouarzazate serves Ouarzazate and surrounding areas."
+}

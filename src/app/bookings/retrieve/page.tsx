@@ -1,0 +1,3 @@
+"use client";
+import { useRouter } from "next/navigation";
+export default function Retrieve(){const r=useRouter();return <main className="form-page"><div className="container" style={{maxWidth:620}}><form className="form-card" onSubmit={e=>{e.preventDefault();const f=new FormData(e.currentTarget);r.push(`/bookings/${f.get("ref")}`)}}><span className="kicker">Sans compte</span><h1>Retrouver une réservation</h1><div className="inputgroup"><label>Numéro de réservation</label><input name="ref" required placeholder="MA-DEMO-XXXXXX"/></div><div className="inputgroup" style={{marginTop:15}}><label>E-mail</label><input type="email" required placeholder="vous@email.com"/></div><button className="primary-btn">Retrouver mon voyage</button></form></div></main>}

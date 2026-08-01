@@ -1,0 +1,51 @@
+[
+  {
+    "routeId": "easyjet_oud_ndr",
+    "price": 2195,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "easyjet_oud_ndr",
+    "price": 3292,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "easyjet_oud_erh",
+    "price": 949,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "easyjet_oud_aga",
+    "price": 1293,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "easyjet_oud_ouz",
+    "price": 1253,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  },
+  {
+    "routeId": "easyjet_oud_ouz",
+    "price": 1879,
+    "currency": "MAD",
+    "cabinClass": "Business",
+    "notes": "Business fare"
+  },
+  {
+    "routeId": "easyjet_oud_rba",
+    "price": 1932,
+    "currency": "MAD",
+    "cabinClass": "Economy",
+    "notes": "Standard fare"
+  }
+]

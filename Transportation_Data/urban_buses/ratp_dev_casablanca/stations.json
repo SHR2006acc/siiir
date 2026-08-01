@@ -1,0 +1,306 @@
+[
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop1",
+    "name": "Stop 1-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.59382780592156,
+    "longitude": -7.553451222802241
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop2",
+    "name": "Stop 1-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.52376109001418,
+    "longitude": -7.595280084783695
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop3",
+    "name": "Stop 1-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.52810607270628,
+    "longitude": -7.630437638806269
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop4",
+    "name": "Stop 1-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.62297866653936,
+    "longitude": -7.591767475886919
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop5",
+    "name": "Stop 1-5",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.57486033437333,
+    "longitude": -7.605519948550463
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop6",
+    "name": "Stop 1-6",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.62017936431876,
+    "longitude": -7.581322129975458
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop7",
+    "name": "Stop 1-7",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.52681752520583,
+    "longitude": -7.602427747532643
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line1_stop8",
+    "name": "Stop 1-8",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.52851262218576,
+    "longitude": -7.588243347356381
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop1",
+    "name": "Stop 2-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.574186506151435,
+    "longitude": -7.6247531632281005
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop2",
+    "name": "Stop 2-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.62256977352462,
+    "longitude": -7.58393227750652
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop3",
+    "name": "Stop 2-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.56292489525555,
+    "longitude": -7.612069852901422
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop4",
+    "name": "Stop 2-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.60240308980524,
+    "longitude": -7.547054850354554
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop5",
+    "name": "Stop 2-5",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.58252960627552,
+    "longitude": -7.624499971807037
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line2_stop6",
+    "name": "Stop 2-6",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.59397598525622,
+    "longitude": -7.580315620274672
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop1",
+    "name": "Stop 3-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.57625824692335,
+    "longitude": -7.575704944786143
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop2",
+    "name": "Stop 3-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.57785622386496,
+    "longitude": -7.60878886277586
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop3",
+    "name": "Stop 3-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.59725911007985,
+    "longitude": -7.596639385551076
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop4",
+    "name": "Stop 3-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.537105888374946,
+    "longitude": -7.603312909706181
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop5",
+    "name": "Stop 3-5",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.57780454000629,
+    "longitude": -7.616983062303007
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop6",
+    "name": "Stop 3-6",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.537199343923824,
+    "longitude": -7.628966704693707
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop7",
+    "name": "Stop 3-7",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.52365328114709,
+    "longitude": -7.5710759875289115
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line3_stop8",
+    "name": "Stop 3-8",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.60791456954265,
+    "longitude": -7.628950418255043
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop1",
+    "name": "Stop 4-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.616540529091765,
+    "longitude": -7.623157541477991
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop2",
+    "name": "Stop 4-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.53540300071673,
+    "longitude": -7.620984634182843
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop3",
+    "name": "Stop 4-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.56612109110674,
+    "longitude": -7.578122521851037
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop4",
+    "name": "Stop 4-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.580034539936,
+    "longitude": -7.5529168513933325
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop5",
+    "name": "Stop 4-5",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.61925971277334,
+    "longitude": -7.583136412004168
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line4_stop6",
+    "name": "Stop 4-6",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.59924337954644,
+    "longitude": -7.62576399791254
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop1",
+    "name": "Stop 5-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.541466445976155,
+    "longitude": -7.581803886549014
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop2",
+    "name": "Stop 5-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.527426195462944,
+    "longitude": -7.542807294945552
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop3",
+    "name": "Stop 5-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.54294879521706,
+    "longitude": -7.612321404749527
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop4",
+    "name": "Stop 5-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.61008557691059,
+    "longitude": -7.547276928775962
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop5",
+    "name": "Stop 5-5",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.603956726029224,
+    "longitude": -7.585526646262709
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line5_stop6",
+    "name": "Stop 5-6",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.580694832602056,
+    "longitude": -7.622320586822052
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line6_stop1",
+    "name": "Stop 6-1",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.57024425781334,
+    "longitude": -7.592547363222905
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line6_stop2",
+    "name": "Stop 6-2",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.527143835389616,
+    "longitude": -7.5782973728358405
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line6_stop3",
+    "name": "Stop 6-3",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.540018967414404,
+    "longitude": -7.583371800998189
+  },
+  {
+    "stationId": "ratp_dev_casablanca_line6_stop4",
+    "name": "Stop 6-4",
+    "city": "casablanca",
+    "type": "urban_bus_stop",
+    "latitude": 33.54614349768799,
+    "longitude": -7.618933747774149
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "routeId": "ghazala_mohammedia_tetouan",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "mohammedia",
+    "destination": "tetouan",
+    "distanceKm": 278.9,
+    "estimatedDuration": 368,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_mohammedia_beni_mellal",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "mohammedia",
+    "destination": "beni_mellal",
+    "distanceKm": 178.2,
+    "estimatedDuration": 250,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_mohammedia_tangier",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "mohammedia",
+    "destination": "tangier",
+    "distanceKm": 270.5,
+    "estimatedDuration": 340,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_agadir_errachidia",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "errachidia",
+    "distanceKm": 520.5,
+    "estimatedDuration": 664,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_agadir_nador",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "nador",
+    "distanceKm": 815.5,
+    "estimatedDuration": 999,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_agadir_oujda",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "agadir",
+    "destination": "oujda",
+    "distanceKm": 861.6,
+    "estimatedDuration": 1066,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_oujda_chefchaouen",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "chefchaouen",
+    "distanceKm": 311.2,
+    "estimatedDuration": 411,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_oujda_meknes",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "meknes",
+    "distanceKm": 345.5,
+    "estimatedDuration": 452,
+    "numberOfStops": 3,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_oujda_laayoune",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "oujda",
+    "destination": "laayoune",
+    "distanceKm": 1362.7,
+    "estimatedDuration": 1647,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_khouribga_chefchaouen",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "chefchaouen",
+    "distanceKm": 295.8,
+    "estimatedDuration": 390,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_khouribga_tangier",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "tangier",
+    "distanceKm": 335.0,
+    "estimatedDuration": 422,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_khouribga_taza",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "khouribga",
+    "destination": "taza",
+    "distanceKm": 306.2,
+    "estimatedDuration": 394,
+    "numberOfStops": 2,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_tetouan_chefchaouen",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "chefchaouen",
+    "distanceKm": 46.1,
+    "estimatedDuration": 83,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_tetouan_larache",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "larache",
+    "distanceKm": 80.7,
+    "estimatedDuration": 115,
+    "numberOfStops": 1,
+    "direct": true
+  },
+  {
+    "routeId": "ghazala_tetouan_dakhla",
+    "company": "ghazala",
+    "transportType": "bus",
+    "origin": "tetouan",
+    "destination": "dakhla",
+    "distanceKm": 1669.0,
+    "estimatedDuration": 2035,
+    "numberOfStops": 1,
+    "direct": true
+  }
+]

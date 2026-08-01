@@ -1,0 +1,15 @@
+{
+  "id": "royal_air_maroc",
+  "name": "Royal Air Maroc",
+  "shortName": "RAM",
+  "country": "Morocco",
+  "website": "https://www.royalairmaroc.com",
+  "headquarters": "Casablanca",
+  "founded": 1953,
+  "transportType": "air",
+  "description": "Flag carrier of Morocco",
+  "alliance": "Oneworld",
+  "status": "active",
+  "primaryColor": "#e31e24",
+  "secondaryColor": "#000000"
+}

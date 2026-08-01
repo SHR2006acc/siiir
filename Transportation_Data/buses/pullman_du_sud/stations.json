@@ -1,0 +1,138 @@
+[
+  {
+    "stationId": "khouribga_bus",
+    "name": "Gare Routi\u00e8re Khouribga",
+    "city": "khouribga",
+    "type": "bus",
+    "latitude": 32.87609949480098,
+    "longitude": -6.902334978959119
+  },
+  {
+    "stationId": "tangier_bus",
+    "name": "Gare Routi\u00e8re Tangier",
+    "city": "tangier",
+    "type": "bus",
+    "latitude": 35.75547063966249,
+    "longitude": -5.836433950053434
+  },
+  {
+    "stationId": "dakhla_bus",
+    "name": "Gare Routi\u00e8re Dakhla",
+    "city": "dakhla",
+    "type": "bus",
+    "latitude": 23.694722149174627,
+    "longitude": -15.96120617743433
+  },
+  {
+    "stationId": "laayoune_bus",
+    "name": "Gare Routi\u00e8re La\u00e2youne",
+    "city": "laayoune",
+    "type": "bus",
+    "latitude": 27.155231569221353,
+    "longitude": -13.204280097073683
+  },
+  {
+    "stationId": "ksar_el_kebir_bus",
+    "name": "Gare Routi\u00e8re Ksar El Kebir",
+    "city": "ksar_el_kebir",
+    "type": "bus",
+    "latitude": 34.996707099701766,
+    "longitude": -5.895953262949205
+  },
+  {
+    "stationId": "tetouan_bus",
+    "name": "Gare Routi\u00e8re T\u00e9touan",
+    "city": "tetouan",
+    "type": "bus",
+    "latitude": 35.580470713329774,
+    "longitude": -5.36555802398345
+  },
+  {
+    "stationId": "ifrane_bus",
+    "name": "Gare Routi\u00e8re Ifrane",
+    "city": "ifrane",
+    "type": "bus",
+    "latitude": 33.524034840119555,
+    "longitude": -5.109544997516207
+  },
+  {
+    "stationId": "errachidia_bus",
+    "name": "Gare Routi\u00e8re Errachidia",
+    "city": "errachidia",
+    "type": "bus",
+    "latitude": 31.943025291411537,
+    "longitude": -4.42141692071622
+  },
+  {
+    "stationId": "agadir_bus",
+    "name": "Gare Routi\u00e8re Agadir",
+    "city": "agadir",
+    "type": "bus",
+    "latitude": 30.42117353237585,
+    "longitude": -9.601269318032962
+  },
+  {
+    "stationId": "rabat_bus",
+    "name": "Gare Routi\u00e8re Rabat",
+    "city": "rabat",
+    "type": "bus",
+    "latitude": 34.029957170498584,
+    "longitude": -6.842647736060715
+  },
+  {
+    "stationId": "safi_bus",
+    "name": "Gare Routi\u00e8re Safi",
+    "city": "safi",
+    "type": "bus",
+    "latitude": 32.30591742152715,
+    "longitude": -9.24163733435791
+  },
+  {
+    "stationId": "al_hoceima_bus",
+    "name": "Gare Routi\u00e8re Al Hoce\u00efma",
+    "city": "al_hoceima",
+    "type": "bus",
+    "latitude": 35.25088738095786,
+    "longitude": -3.9354958436365526
+  },
+  {
+    "stationId": "oujda_bus",
+    "name": "Gare Routi\u00e8re Oujda",
+    "city": "oujda",
+    "type": "bus",
+    "latitude": 34.685964553303656,
+    "longitude": -1.9130000326787158
+  },
+  {
+    "stationId": "marrakech_bus",
+    "name": "Gare Routi\u00e8re Marrakech",
+    "city": "marrakech",
+    "type": "bus",
+    "latitude": 31.635108543292617,
+    "longitude": -7.980074622219143
+  },
+  {
+    "stationId": "taza_bus",
+    "name": "Gare Routi\u00e8re Taza",
+    "city": "taza",
+    "type": "bus",
+    "latitude": 34.220999936945304,
+    "longitude": -4.008987021719013
+  },
+  {
+    "stationId": "meknes_bus",
+    "name": "Gare Routi\u00e8re Mekn\u00e8s",
+    "city": "meknes",
+    "type": "bus",
+    "latitude": 33.892962033721545,
+    "longitude": -5.54138410689081
+  },
+  {
+    "stationId": "beni_mellal_bus",
+    "name": "Gare Routi\u00e8re Beni Mellal",
+    "city": "beni_mellal",
+    "type": "bus",
+    "latitude": 32.33094718475648,
+    "longitude": -6.3582929975573705
+  }
+]

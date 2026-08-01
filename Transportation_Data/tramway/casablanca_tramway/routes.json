@@ -1,0 +1,24 @@
+[
+  {
+    "routeId": "casablanca_tramway_line_1",
+    "company": "casablanca_tramway",
+    "transportType": "tram",
+    "origin": "cas_tram_1",
+    "destination": "cas_tram_30",
+    "distanceKm": 15.0,
+    "estimatedDuration": 60,
+    "numberOfStops": 30,
+    "direct": true
+  },
+  {
+    "routeId": "casablanca_tramway_line_2",
+    "company": "casablanca_tramway",
+    "transportType": "tram",
+    "origin": "cas_tram_1",
+    "destination": "cas_tram_30",
+    "distanceKm": 15.0,
+    "estimatedDuration": 60,
+    "numberOfStops": 30,
+    "direct": true
+  }
+]

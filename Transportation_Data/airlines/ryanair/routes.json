@@ -1,0 +1,57 @@
+[
+  {
+    "routeId": "ryanair_rak_eun",
+    "company": "ryanair",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "eun",
+    "distanceKm": 705.2,
+    "estimatedDuration": 85,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ryanair_rak_ndr",
+    "company": "ryanair",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "ndr",
+    "distanceKm": 602.4,
+    "estimatedDuration": 90,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ryanair_rak_fes",
+    "company": "ryanair",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "fes",
+    "distanceKm": 385.1,
+    "estimatedDuration": 59,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ryanair_rak_cmn",
+    "company": "ryanair",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "cmn",
+    "distanceKm": 200.2,
+    "estimatedDuration": 50,
+    "numberOfStops": 0,
+    "direct": true
+  },
+  {
+    "routeId": "ryanair_rak_rba",
+    "company": "ryanair",
+    "transportType": "flight",
+    "origin": "rak",
+    "destination": "rba",
+    "distanceKm": 297.1,
+    "estimatedDuration": 50,
+    "numberOfStops": 0,
+    "direct": true
+  }
+]

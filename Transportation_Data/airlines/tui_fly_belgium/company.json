@@ -1,0 +1,15 @@
+{
+  "id": "tui_fly_belgium",
+  "name": "TUI Fly Belgium",
+  "shortName": "TB",
+  "country": "Belgium",
+  "website": "https://www.tuifly.be",
+  "headquarters": "Brussels",
+  "founded": 2003,
+  "transportType": "air",
+  "description": "Belgian leisure airline",
+  "alliance": "None",
+  "status": "active",
+  "primaryColor": "#004a8f",
+  "secondaryColor": "#ffcd00"
+}

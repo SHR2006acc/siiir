@@ -1,0 +1,16 @@
+{
+  "airportId": "cmn",
+  "name": "Casablanca Mohammed V",
+  "city": "casablanca",
+  "region": "Casablanca-Settat",
+  "IATA": "CMN",
+  "ICAO": "GMMN",
+  "latitude": 33.3675,
+  "longitude": -7.5899,
+  "elevation": 200,
+  "runwayCount": 2,
+  "terminalCount": 3,
+  "operator": "ONDA",
+  "website": "https://www.onda.ma/aeroport-cmn",
+  "description": "Casablanca Mohammed V serves Casablanca and surrounding areas."
+}
